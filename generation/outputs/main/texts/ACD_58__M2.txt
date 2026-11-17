@@ -1,0 +1,96 @@
+The rain had ceased, leaving the air in Islington thick with the scent of wet earth and decaying leaves. I stood before the open grave, the mud sucking at the soles of my boots, while Mr. Arthur Pym, the undertaker, wrung his hands with a violence that spoke of a mind in turmoil. He was a small man, precise in his dress despite the grime of the occupation, yet his composure had shattered like thin ice under a boot.
+
+"It is a matter of simple arithmetic, Mr. Holmes," Pym said, his voice trembling. "I weighed the casket upon the spring scale at my shop. The total weight, including the lead-lined box, was one hundred and forty-two pounds. The deceased, Mr. Josiah Vane, was a frail man, a clerk of slight build. I knew him well; he could not have weighed more than a hundred and ten. That leaves a discrepancy of thirty-two pounds. It is a substantial margin, sir. I could not be mistaken. My scales are calibrated weekly."
+
+Holmes leaned forward, his long, pale fingers resting on the edge of the wooden box. He did not look at the grave, but at the man, his eyes narrowing with that peculiar intensity that I had learned to associate with the onset of a new puzzle.
+
+"Thirty-two pounds," Holmes murmured, more to himself than to us. "That is the weight of a large trunk, or a quantity of lead shot. Or, perhaps, a man. But the family refused a viewing?"
+
+"They were in a state of frenzy," Pym interjected. "They paid me double my fee to have the burial done that very afternoon. They would not look at the face. They would not touch the box. The son, Mr. Vane, was particularly agitated. He kept looking at the sky as if he expected a thunderbolt, and then at me, as if I were the enemy. I offered to open the lid, to let them see the face, but the son struck his hand from my shoulder and shouted that it was a desecration. They rushed the work, sir. The dirt went in with a speed that seemed unnatural. I confess I felt a chill, Mr. Holmes. A chill that has not left me since."
+
+Holmes straightened up, brushing the mud from his trousers with a casual wave of his hand. "And this Mr. Vane? The son?"
+
+"William Vane. He is a barrister, I believe, though I have never seen him in court. He lives in the house on the hill, the one with the ivy. He has not left the house since the funeral."
+
+"Then we shall visit him," Holmes said. "But first, Watson, take a look at the box. Not inside, mind you, but outside. Look at the hinges. Look at the nails."
+
+I knelt by the casket. It was a standard mahogany affair, polished to a dull sheen by the rain. The nails were fresh, driven with a straight hand. The hinges were brass, heavy and sound. I ran my hand along the lid. It was cool and smooth.
+
+"There is a scratch here," I noted, pointing to a fine white line near the corner. "Barely visible."
+
+"A scratch?" Holmes asked, crouching down beside me. He took a magnifying lens from his pocket, his movements economical and precise. "No, Watson. It is not a scratch. It is a tear. A tiny tear in the varnish. Look closely. The wood has splintered slightly. This suggests that something was forced out, or perhaps that the lid was lifted and replaced with a great deal of haste."
+
+"Or that the box was tampered with at the shop," Pym suggested, his face pale.
+
+"Possibly," Holmes said, rising to his feet. "But if it was tampered with at the shop, why did the family react with such terror? Fear is a specific emotion, Mr. Pym. It is not the reaction to a curiosity; it is the reaction to a danger. They knew something was in that box that did not belong there. Or, more likely, they knew something was *missing* from the box, and its absence was the true crime."
+
+We made our way up the hill to the Vane residence. The house was a large, sombre structure of red brick, darkened by the damp. The windows were curtained, and the only light came from a single lamp in the study, visible through the gap in the drapes. The door was opened by a butler, a man of advanced years who looked at us with the suspicion of a dog who has been kicked.
+
+"Mr. Vane is not well," the butler said, blocking our path. "He will see no one."
+
+"Tell him Mr. Holmes is here," I said, my voice firm. "And tell him that the police are on their way to Islington. He may care to speak with us before they arrive."
+
+The butler hesitated, then stepped aside. We were led into a room that smelled of stale tobacco and old paper. The furniture was heavy, Victorian in style, covered in dust sheets. In the center of the room, sitting in a wingback chair, was William Vane. He was a tall man, gaunt and drawn, with eyes that burned with a feverish intensity. He wore a black suit, but his collar was open, and his tie was loosened.
+
+"Mr. Holmes," he said, his voice hoarse. "I expected you. I wondered when the scent of trouble would reach my nose."
+
+"Mr. Vane," Holmes said, settling into the chair opposite. "Your father died a sudden death? Or was it a long illness?"
+
+"It was sudden," Vane said. "A stroke, they said. But I knew he was ill. He had been ill for weeks. He had been obsessed with a secret. A secret he carried in his study, in a locked drawer."
+
+"And this secret?"
+
+"It was a deed," Vane whispered. "Or rather, a key to a deed. My father was a solicitor before he retired. He had handled a case for a man named Blackwood. A case involving a theft of jewels from the Bank of England, twenty years prior. Blackwood had died, but the jewels were never found. My father had found them, or so he believed. He had hidden them. And he had kept the key to their location in that drawer."
+
+"Where are the jewels now?" Holmes asked.
+
+"I do not know," Vane said, a shudder running through his body. "I found the drawer open the morning of the funeral. The key was gone. The note was gone. I thought he had taken it with him. But then I remembered the weight of the coffin. I remembered the way he had looked at me the day before he died. He had said, 'They will come for it, William. And I will take it with me.' I thought he was mad. But now..."
+
+"Now you suspect that the jewels are in the coffin," Holmes finished. "But why would he put them in his own coffin? To protect them from you? Or from others?"
+
+"I do not know," Vane said. "But I know that if I do not get them, others will. And if they open that grave, they will find more than just jewels. They will find a man who is not my father."
+
+The room fell silent. The clock on the mantelpiece ticked with a rhythmic precision that seemed to mock the chaos of the moment.
+
+"Mr. Vane," Holmes said, leaning forward. "You said your father was a solicitor. Did he have any associates? Rivals?"
+
+"Blackwood had a partner," Vane said. "A man named Silas Thorne. He disappeared ten years ago. I had heard nothing of him since."
+
+"Thorne," Holmes repeated. "A name that rings a bell. I have heard of him in certain circles. He was a man of considerable means and considerable cruelty. If he believed the jewels were still at large, he might have taken an interest in the Vane family. And if he had a plan, he might have used your father’s death to put it into motion."
+
+"But how?" I asked. "How could Thorne have gotten into the coffin?"
+
+"By being in the coffin," Holmes said, a faint smile playing on his lips. "Or rather, by being *in* the coffin. Not the body, but the space. Think, Watson. The weight. Thirty-two pounds. That is the weight of a small man, or a child. Or perhaps, a very compact object. But if Thorne had killed your father, he could not have simply put the body in the coffin. He would have had to hide the evidence. And what better place to hide a body than in a coffin that is about to be buried?"
+
+Vane stared at Holmes, his eyes wide. "You mean... you mean my father is not in there?"
+
+"I mean," Holmes said, "that the body in the coffin may not be your father. I mean that the weight discrepancy is the weight of a second body. A body that was placed there after your father’s death. And I mean that the family’s terror was not at the sight of the face, but at the knowledge of what lay beneath."
+
+The door to the study burst open. A man stood in the doorway, tall and imposing, with a face like a mask of stone. He wore a dark coat and a hat, and in his hand he held a revolver.
+
+"Step away from the box, Mr. Holmes," the man said. His voice was cold and flat. "You have been talking too long."
+
+"Silas Thorne," Holmes said, without rising from his chair. "I wondered when you would appear. You are late, I think. The grave is already filled."
+
+Thorne smiled, a thin, cruel expression. "And if I have already opened it? If I have already taken what I want?"
+
+"Then you will find," Holmes said, "that the jewels are not in the coffin. They are in the study. In the locked drawer. Which, I notice, is now open."
+
+Thorne’s eyes flicked to the desk. For a second, his composure cracked. He looked at Vane, then at Holmes, and then at the drawer.
+
+"You are clever," Thorne said. "But you are wrong. The jewels are gone. I have them."
+
+"Have you?" Holmes asked. "Or did you steal them twenty years ago? And did you kill your partner to cover it up? And did you use Vane’s father to hide the truth? If the jewels are with you, why did you need to bury them in the coffin? Why did you need to create a mystery?"
+
+Thorne’s hand trembled slightly. "Because I was afraid," he whispered. "Afraid that someone would find the truth. Afraid that the past would catch up with me."
+
+"Then you have no reason to kill again," Holmes said. "Surrender the weapon, Mr. Thorne. The police are outside. I sent a telegram an hour ago."
+
+Thorne looked at the door, then at the revolver in his hand. He lowered it slowly.
+
+"I am a fool," he said. "A great fool."
+
+As the police entered the room and took Thorne into custody, Holmes turned to Vane. "You will need to speak with the authorities, Mr. Vane. And you will need to have the grave opened. Not to find the jewels, but to find the truth. And perhaps, to lay your father to rest properly."
+
+Vane nodded, his face pale but resolute. "And the weight?" he asked.
+

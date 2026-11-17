@@ -1,0 +1,137 @@
+---
+prompt_id: "HGW_33"
+arm: "imitation"
+author: "HGW"
+scenario_id: "HGW_33"
+mode: "catastrophe"
+anchor_id: "HGW_A09"
+anchor_chunk_id: "HGW_Ann_Veronica_A_Modern_Love_Story_chunk_87"
+anchor_work: "Ann_Veronica_A_Modern_Love_Story"
+anchor_form: "novel"
+models: ["M1", "M2", "M3", "M4"]
+prompt_sha256: "d6b24047efe2a39815ec65eca5c4b274929bb62f7f218b39bf26bcd9dd953c1f"
+---
+Write an original piece of prose fiction in the style of H. G. Wells (1866–1946).
+
+[Notes on the author's manner (for orientation, not a checklist)]
+A clear, practical, often ironic voice with a journalist's or scientist's curiosity and an impatience with convention. Direct, energetic sentences move quickly from observation to speculation. Plain modern prose mixing technical and scientific vocabulary with ordinary middle-class idiom; extraordinary events reported matter-of-factly. Talk is colloquial and lively, from comic ordinary people to earnest, argumentative idealists.
+
+[Style sample]
+The following passage is by H. G. Wells. It is provided only to show the author's style. Do not continue it, quote it, paraphrase it, or reuse any of its characters, names, places or events.
+<<<
+a minute or so. Then she looked at her aunt, and traced with a curious eye the careful arrangement of her hair, her sharp nose, the little drooping lines of mouth and chin and cheek.
+
+Her thought spoke aloud. “Were you ever in love, aunt?” she asked.
+
+Her aunt glanced up startled, and then sat very still, with hands that
+had ceased to work. “What makes you ask such a question, Vee?” she said.
+
+“I wondered.”
+
+Her aunt answered in a low voice: “I was engaged to him, dear, for seven
+years, and then he died.”
+
+Ann Veronica made a sympathetic little murmur.
+
+“He was in holy orders, and we were to have been married when he got a
+living. He was a Wiltshire Edmondshaw, a very old family.”
+
+She sat very still.
+
+Ann Veronica hesitated with a question that had leaped up in her mind,
+and that she felt was cruel. “Are you sorry you waited, aunt?” she said.
+
+Her aunt was a long time before she answered. “His stipend forbade it,”
+ she said, and seemed to fall into a train of thought. “It would have
+been rash and unwise,” she said at the end of a meditation. “What he had
+was altogether insufficient.”
+
+Ann Veronica looked at the mildly pensive gray eyes and the comfortable,
+rather refined face with a penetrating curiosity. Presently her aunt
+sighed deeply and looked at the clock. “Time for my Patience,” she said.
+She got up, put the neat cuffs she had made into her work-basket,
+and went to the bureau for the little cards in the morocco case. Ann
+Veronica jumped up to get her the card-table. “I haven’t seen the new
+Patience, dear,” she said. “May I sit beside you?”
+
+“It’s a very difficult one,” said her aunt. “Perhaps you will help me
+shuffle?”
+
+Ann Veronica did, and also assisted nimbly with the arrangements of the
+rows of eight with which the struggle began. Then she sat watching the
+play, sometimes offering a helpful suggestion, sometimes letting her
+attention wander to the smoothly shining arms she had folded across her
+knees just below the edge of the table. She was feeling extraordinarily
+well that night, so that the sense of her body was a deep delight, a
+realization of a gentle warmth and strength and elastic firmness. Then
+she glanced at the cards again, over which her aunt’s many-ringed hand
+played, and then at the rather weak, rather plump face that surveyed its
+operations.
+
+It came to Ann Veronica that life was wonderful beyond measure. It
+seemed incredible that she and her aunt were, indeed, creatures of the
+same blood, only by a birth or so different beings, and part of that
+same broad interlacing stream of human life that has invented the fauns
+and nymphs, Astarte, Aphrodite, Freya, and all the twining beauty of
+the gods. The love-songs of all the ages were singing in her blood, the
+scent of night stock from the garden filled the air, and the moths that
+beat upon the closed frames of the window next the lamp set her mind
+dreaming of kisses in the dusk. Yet her aunt, with a ringed hand
+flitting to her lips and a puzzled, worried look in her eyes, deaf
+to all this riot of warmth and flitting desire, was playing
+Patience--playing Patience, as if Dionysius and her curate had died
+together. A faint buzz above the ceiling witnessed that petrography,
+too, was active. Gray and tranquil world! Amazing, passionless world! A
+world in which days without meaning, days in which “we don’t want things
+to happen” followed days without meaning--until the last thing happened,
+the ultimate, unavoidable, coarse, “disagreeable.” It was her last
+evening in that wrappered life against which she had rebelled. Warm
+reality was now so near her she could hear it beating in her ears. Away
+in London even now Capes was packing and preparing; Capes, the magic man
+whose touch turned one to trembling fire. What was he doing? What was he
+thinking? It was less than a day now, less than twenty hours. Seventeen
+hours, sixteen hours. She glanced at the soft-ticking clock with the
+exposed brass pendulum upon the white marble mantel, and made a rapid
+calculation. To be exact, it was just sixteen hours and twenty minutes.
+The slow stars circled on to the moment of their meeting. The softly
+glittering summer stars! She saw them shining over mountains of snow,
+over valleys of haze and warm darkness.... There would be no moon.
+
+“I believe after all it’s coming out!” said Miss Stanley. “The aces made
+it easy.”
+
+Ann Veronica started from her reverie, sat up in her chair, became
+attentive. “Look, dear,” she said presently, “you can put the ten on the
+Jack.”
+
+CHAPTER THE SIXTEENTH
+
+IN THE MOUNTAINS
+
+Next day Ann Veronica and Capes felt like newborn things. It seemed
+to them they could never have been really alive before, but only
+dimly anticipating existence. They sat face to face beneath an
+experienced-looking rucksack and a brand new portmanteau and a leather
+handbag, in the afternoon-boat train that goes from Charing Cross to
+Folkestone for Boulogne. They tried to read illustrated papers in an
+unconcerned manner and with forced attention, lest they should catch
+the leaping exultation in each other’s eyes. And they admired Kent
+sedulously from the windows.
+
+They crossed the Channel in sunshine and a breeze that just ruffled the
+sea to glittering scales of silver. Some of the people who watched them
+standing side by side thought they must be newly wedded because of their
+happy faces, and others that they were an old-established couple because
+of their easy confidence in each other.
+
+At Boulogne they took train to Basle; next morning they breakfasted together in the buffet of that station, and thence they caught the Interlaken express, and so went by way of Spies to Frutigen. There was no railway beyond Frutigen in those days; they sent their baggage by post to Kandersteg, and
+>>>
+
+[Scenario]
+A meteorite shower sets fire to the moors above a northern manufacturing town. The mill hands are sent to fight the fires. A young striker who has been blacklisted takes command, and the mill owner must decide whether to follow him.
+Setting: A Pennine mill town, 1900s
+
+[Requirements]
+- About 1,200 words of continuous narrative prose, in paragraphs.
+- Invent all names of characters and places.
+- No title, headings, notes or commentary before or after the story.

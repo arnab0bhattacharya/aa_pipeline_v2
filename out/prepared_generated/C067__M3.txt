@@ -1,0 +1,37 @@
+The perpetual hum of the Heliostat Array usually sounded like a lullaby to Kael. It was the white noise of Aethelgard, the great city that had conquered the heavens by murdering the night. Standing in the central monitoring deck of the Luminary Corps, Kael stared at the holographic schematic of the city's orbital mirrors and terrestrial fusion-lights. For three hundred years, the array had cast an unbroken, artificial daylight over the spires and plazas. But today, the hum had a fractional hesitation, a micro-second of silence that repeated every forty-seven seconds. And the schematic was bleeding red.
+
+"Decay coefficient at point-zero-four percent," Kael muttered, running her fingers through the light-projections. The numbers didn't make sense. The fusion cores were degrading, but not at a linear rate. It was a cascading failure.
+
+From the desk behind her, Supervisor Varro didn't look up from his tablet. "Run a diagnostic on the sensor relays, Kael. The cores are rated for another two centuries. The system doesn't just 'decay'."
+
+"The sensors are fine, Varro. I checked them twice." Kael bit her lip, pulling up the historical archives. The founders of Aethelgard had built the array to eradicate the darkness, fearing the chaos and madness that the ancient texts claimed came with the absence of light. But in their brilliance, they had engineered the fusion cores with a crystalline lattice that suffered from photon degradation. The light was literally eating the projectors. "If this cascade continues, we're looking at a total system blackout in seventy-two hours."
+
+Varro finally looked up, his face a mask of bureaucratic annoyance. "That's impossible. The Founders perfected the lattice. You're misinterpreting the data. Close the file and run the diagnostics."
+
+Kael didn't argue. She closed the file on her terminal, grabbed her coat, and took the mag-lift down to the sub-levels. If Varro wouldn't listen, she had to find someone who would.
+
+She went to see Elara, an old historian who lived in the lower tiers, near the roots of the city where the light from the artificial suns didn't reach as brightly. The lower tiers were bathed in a permanent, shadowless twilight, but it was still light. It was always light.
+
+Elara lived in a cramped apartment filled with ancient paper books, artifacts of a time before the perpetual day. She was a woman of perhaps sixty, though in Aethelgard, where the absence of night had disrupted circadian rhythms and extended lifespans artificially, age was hard to judge.
+
+"It's failing," Kael said, declining the offer of a synthetic tea. "The array. I've seen the numbers. Varro thinks it's a sensor glitch, but I traced the cascade. The lattice is collapsing. In three days, Aethelgard is going to experience something it hasn't seen in three centuries."
+
+Elara set her cup down slowly. "Night," she whispered, as if the word were a curse or a prayer. "The people will not survive it, Kael. They don't know what it is. They've been raised to believe darkness is a void, a death. Do you know what happens to a mind that has never experienced the absence of stimuli? When the light goes out, they won't just be unable to see. They will lose their sense of self. The psychological dependency on the light is absolute."
+
+Kael had suspected as much. In the medical archives, she had found records of an incident fifteen years ago, when a minor malfunction had caused a two-minute blackout in a single sector. The panic had resulted in forty-seven deaths from heart failure and accidents. A two-minute darkness. A three-hundred-year darkness would be apocalyptic.
+
+"We have to prepare them," Kael said.
+
+"How?" Elara asked. "The Luminary Corps has spent generations enforcing the doctrine of eternal light. To admit the system is failing is to admit the Founders were fallible. The government will suppress the information. And even if they didn't, how do you teach a city of forty million people to embrace the dark?"
+
+Kael didn't have an answer. She spent the next day combing through the deep archives of the Luminary Corps, looking for a solution. She found it in the most unlikely place: the personal logs of the array's original architect, a woman named Sera Vane.
+
+Sera Vane had not wanted eternal daylight. The archives revealed that she had been overruled by the Founders, who demanded a constant, blinding illumination to enforce order. Sera had built a failsafe into the system, a separate network of low-intensity, bioluminescent projectors embedded in the city's foundational strata. They were designed to cast a soft, blue-green glow, enough to navigate by, but dim enough to allow the human eye to adjust to darkness. She had called them the Lumen Null.
+
+The problem was that the Lumen Null required a manual activation. The switch was located in the Deep Core, a maintenance shaft that ran down into the bedrock beneath the city, a place no one had ventured in over a century. And to reach it, Kael would have to descend into the sub-strata, where the light of the artificial suns barely reached.
+
+She went alone, knowing that if she told Varro, he would lock down the Deep Core in the name of safety and protocol. The mag-lift only went so far. Below the lowest residential tier, there were only service ladders and ancient staircases carved into the rock. The air grew cooler, and the light dimmed.
+
+For the first time in her life, Kael experienced shadow. Not the twilight of the lower tiers, but actual shadow, where shapes lost their edges and colors bled into gray. Her heart began to race. She felt an irrational urge to turn back, to climb toward the light. Her hands trembled on the cold metal rungs of the ladder.
+
+She forced herself to continue down. The walls of the shaft were damp, and the hum of the Heliostat Array grew fainter. After what felt like an hour, she reached the Deep Core. It was a vast chamber, cathedral-like in its dimensions, filled with the dormant machinery of the Lumen Null. In the center stood a physical console, an antique of switches and levers.

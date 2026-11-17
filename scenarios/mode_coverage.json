@@ -1,0 +1,66 @@
+{
+ "ACD": {
+  "urban-case": 32,
+  "country-case": 17,
+  "past-abroad": 11
+ },
+ "CB": {
+  "dependent-woman": 17,
+  "foreign-school": 15,
+  "industrial": 15,
+  "governess": 13
+ },
+ "CD": {
+  "growing-up": 22,
+  "london-poor": 12,
+  "industrial": 9,
+  "historical": 9,
+  "legal-institution": 8
+ },
+ "GE": {
+  "provincial-town": 15,
+  "rural-village": 15,
+  "family-duty": 15,
+  "society-vocation": 15
+ },
+ "HGW": {
+  "realist-social": 15,
+  "experiment-community": 11,
+  "catastrophe": 13,
+  "remote-science": 11,
+  "future": 10
+ },
+ "JA": {
+  "courtship": 12,
+  "money": 12,
+  "misjudgment": 12,
+  "family-embarrassment": 12,
+  "town-visit": 12
+ },
+ "JC": {
+  "sea-honour": 14,
+  "latin-republic": 14,
+  "london-conspiracy": 13,
+  "russian-exile": 13,
+  "colonial-interior": 6
+ },
+ "MS": {
+  "guilt-secret": 17,
+  "ambition-science": 11,
+  "future-catastrophe": 17,
+  "grief-isolation": 11,
+  "italian-romance": 4
+ },
+ "OW": {
+  "society": 20,
+  "comic-tale": 20,
+  "fairy-tale": 20
+ },
+ "VW": {
+  "london-family": 15,
+  "single-day": 15,
+  "voyage-abroad": 15,
+  "life-fragments": 8,
+  "sketch": 7
+ }
+}

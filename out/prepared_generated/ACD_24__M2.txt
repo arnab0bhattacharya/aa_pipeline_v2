@@ -1,0 +1,43 @@
+The fog lay thick and yellow over the outskirts of Surrey, muffling the blackened facades of Harrowgate Academy in a shroud of damp and silence. I sat in the study of Mr. Arthur Penhaligon, the school’s Senior Master of Mathematics, watching him pace the room with the agitated gait of a man who has lost his footing. The fire had burned low, leaving only a bed of grey ash that offered a bleak reflection of the room’s disarray. Papers were scattered across the mahogany desk, and a broken window latch hung pendulously in the draught that swept in from the garden.
+
+"It is impossible, Mr. Holmes," Penhaligon said, stopping abruptly to stare at me. "I have known the boy for six years. His hand is as common and honest as his face. Yet, look." He pushed a sheet of paper across the desk. "These are the drafts. Three of them, drawn on the school account, totaling four hundred pounds. The signature is that of the Bursar, Mr. Galloway. But the hand... it is not Galloway’s. It is not mine. It is not that of the Headmaster."
+
+I took the paper, holding it up to the dying light of the fire. The ink was a standard black, but the pen-pressure was uneven, suggesting a hesitant writer or a left-handed man forcing a right-handed script. "And you believe this was done by one of your pupils?" I asked, my voice flat.
+
+"Mr. Galloway is dead," Penhaligon said, his voice cracking slightly. "Found in his office this morning, struck on the head with a heavy book. The police have arrested two local laborers, but they are innocent. The real thief has fled, taking the cash with him. But the forgeries were discovered before the body. It seems the thief had access to the study for some time. He forged the cheques, waited for Galloway to present them, and then, when the audit was threatened, he struck."
+
+"And you suspect a boy," I said. "Which one?"
+
+"Julian Vane," Penhaligon whispered. "He is brilliant, but his family is in ruin. His father’s estate is gone. He needs money. And he has access. He is a prefect, and he has keys to the lower library, which is adjacent to the staff corridor. But, Mr. Holmes, look at this." He produced a second sheet, a piece of exercise paper covered in Vane’s neat, slanted script. "Compare it. Vane writes with a precision that borders on vanity. The forger’s hand is clumsy, hurried. It is a different instrument, and a different mind."
+
+I examined both documents side by side. The contrast was stark. Vane’s writing was architectural, built on a strong vertical axis. The forgery was a scramble, the letters slanting wildly to the left. "You are right," I said. "This is not Vane’s hand. But it is not the hand of a stranger, either. There is a familiarity in the loop of the 'g' and the cross of the 't'. It is a hand that knows Galloway’s signature well, but lacks the confidence to reproduce it perfectly."
+
+"Then who?" Penhaligon asked, wringing his hands. "The police are baffled. They say it was a burglary, a simple case of theft and murder. But I know my school. There is a rivalry here, Mr. Holmes. A deep, festering hatred. The Headmaster, Mr. Sterling, and I have been at odds for years. He wants to modernize; I hold to tradition. He believes I am blocking his career. If Sterling knew I had discovered the forgeries, or if he feared I would expose him..."
+
+"Did you tell Mr. Sterling of the forgeries?" I asked.
+
+"No. I told no one. I kept it to myself, intending to confront Galloway privately. But Sterling is a man of immense pride and little patience. He heard rumors. He came to my study last night to demand an explanation. I told him I had no explanation. He left in a rage."
+
+I walked to the window, looking out into the fog. The garden was a labyrinth of overgrown hedges and dark paths. "Who else had access to the study last night?"
+
+"Only Sterling and Vane," Penhaligon said. "Vane was studying in the lower library. He was seen there until ten o’clock by the caretaker. Sterling left at nine. I was in the dining room until ten, then I came here. I locked the door. I did not hear a sound."
+
+"Did you lock the window?"
+
+"I do not know. It is open now. The latch is broken."
+
+I turned back to the desk. "May I examine the room?" I asked, without waiting for an answer. I moved through the space, my eyes scanning the floor, the walls, the furniture. I noticed a small, faint mark on the edge of the desk, a smear of blue wax. I knelt and examined it. "This is from a seal," I said. "A personal seal. The wax is fresh. It was used tonight."
+
+Penhaligon frowned. "I do not use a seal. Sterling does. He seals all his correspondence. But why would he seal a piece of paper on my desk?"
+
+"Perhaps he did not," I said. "Perhaps someone else used his seal. Or perhaps Sterling came back."
+
+"Come back? To break in?"
+
+"To retrieve something," I said. "Or to destroy it. Look at the ash tray." I pointed to the small pile of burnt paper. "There are fragments of a document. Can you read them?"
+
+I picked up a charred piece. The ink was barely legible. "...the account is insolvent... Sterling must know... Vane is innocent..."
+
+Penhaligon gasped. "It is my own handwriting. I wrote a letter to the Board of Governors last week, explaining the discrepancies in the accounts. I was to send it today. It is gone. Only this remains."
+
+"Then Sterling came back," I said. "He heard you mention the discrepancies. He knew you had written to the Board. He came to destroy the letter. But he did not find it. He took the forgeries, perhaps, thinking they would implicate you. And in his haste, he broke the window latch. And in his haste, he killed Galloway, who had returned to retrieve his own papers."

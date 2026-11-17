@@ -1,0 +1,46 @@
+{
+  "_note": "Frozen model + provider pins (approved 2026-10-25). Changing anything here after the pilot requires a logged decision.",
+  "decoding": {
+    "temperature": 0.8,
+    "top_p": 0.95,
+    "top_k": 50,
+    "max_tokens": 2500
+  },
+  "acceptance": {
+    "min_words": 800,
+    "max_content_retries": 1,
+    "max_transport_retries": 6
+  },
+  "drift_halt_fraction": 0.02,
+  "slots": {
+    "M1": {
+      "model": "xiaomi/mimo-v2.6-pro",
+      "provider": "novita/fp8",
+      "backup_provider": "deepinfra/fp8",
+      "quantization": "fp8",
+      "reasoning": {"enabled": false}
+    },
+    "M2": {
+      "model": "qwen/qwen3.8-27b",
+      "provider": "parasail/fp8",
+      "backup_provider": "chutes/fp8",
+      "quantization": "fp8",
+      "reasoning": {"effort": "none"},
+      "_why": "replaces Qwen3.8 2.4T A95B (2026-10-25): the 2.4T cannot turn reasoning off; 27B dense is much smaller than the other three, so report parameter counts"
+    },
+    "M3": {
+      "model": "z-ai/glm-5.2",
+      "provider": "novita/fp8",
+      "backup_provider": "atlas-cloud/fp8",
+      "quantization": "fp8",
+      "reasoning": {"effort": "none"}
+    },
+    "M4": {
+      "model": "deepseek/deepseek-v4.1-flash-1017",
+      "provider": "nebius/fp8",
+      "backup_provider": "parasail/fp8",
+      "quantization": "fp8",
+      "reasoning": {"effort": "none"}
+    }
+  }
+}

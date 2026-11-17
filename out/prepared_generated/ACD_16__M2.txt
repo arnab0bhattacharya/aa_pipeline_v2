@@ -1,0 +1,49 @@
+The rain in London does not fall so much as it insists, a persistent, cold gray curtain that turns the gas lamps of Fleet Street into blurred halos of amber and smoke. It was a Tuesday, the kind of dreary, unremarkable day that the papers often call "tempestuous" merely to fill a column, yet for Mr. Arthur Penrose, editor of the *Metropolitan Gazette*, the atmosphere was charged with a peculiar, electric tension. He sat behind his mahogany desk, the inkwell gleaming like a black eye, staring at a slip of paper that had been thrust into his hand by the office boy that morning.
+
+It was a personal advertisement, small in type, innocuous in appearance. "Lost: A small brown terrier. Reward. Call 4-12-7. No agents."
+
+Arthur frowned, rubbing his beard. He had seen this before. Three times in the last week. The numbers were not random; they were a code. A simple substitution cipher, perhaps, but one that required a key to unlock. The "terrier" was a metaphor, the "reward" a transaction, and the numbers a location or a time. But who was the sender? And more importantly, who was the recipient?
+
+He was still turning the paper over in his mind, calculating the possible permutations of the code, when the door to his office burst open. The office boy, a pale lad named Higgins, stood there, his face drained of all color, his tie askew.
+
+"Mr. Penrose," he gasped, clutching the doorframe. "It’s Master Silas. The typesetter. He’s been found in the alley off Chancery Lane."
+
+Arthur’s blood ran cold. Silas Vance was not merely a typesetter; he was the only man in the building who knew the composition of the personal ads before they were set in type. If Vance was beaten, it was not an accident. It was a warning.
+
+"Where is he now?" Arthur asked, his voice steady despite the hammering of his heart.
+
+"St. Bartholomew’s. He’s alive, but he’s broken, sir. Three ribs, a fractured jaw. And he’s not speaking. The doctor says he’s in a state of profound shock."
+
+Arthur did not wait for the police. He knew that if the constabulary arrived, the story would be muddied, the evidence tampered with, and the thread he had just begun to pull would be severed. He needed a mind sharper than his own, a hand more steady in the dark.
+
+He took his coat and his umbrella and stepped out into the rain. The streets were slick and treacherous, the cobblestones sliding under his boots. He did not go to the hospital. Instead, he walked with purpose to the address he had committed to memory, a nondescript brownstone in Baker Street, where the fog seemed to cling thicker than anywhere else in the city.
+
+He rang the bell. The door was opened by a butler, Mr. Hudson, who looked at Arthur with an expression of mild surprise.
+
+"Mr. Holmes?" the butler asked.
+
+"If he is in, I must see him immediately," Arthur replied. "It is a matter of life and death."
+
+Holmes was in the sitting room, seated by the fire, a violin in his lap but not playing. He wore a dressing gown of purple silk, and his eyes, pale and penetrating, fixed upon Arthur as if he had been expecting him.
+
+"Ah, Penrose," Holmes said, his voice dry and precise. "I see you have been to the hospital. You have the look of a man who has seen a ghost, or something considerably more unpleasant. Sit down. Do not mind the violin; I am merely thinking about the intervals between the notes."
+
+Arthur sat, his hands trembling slightly. He placed the slip of paper on the table.
+
+"Look at this," he said. "And look at this." He produced a second piece of paper, a fragment torn from a newspaper, which he had found in his pocket, a memento of a previous meeting with Vance. "Vance was beaten. He was working on these ads. He tried to warn me, but he was intercepted. The numbers are a code, Holmes. I am certain of it. But I cannot crack it. I am an editor, not a cryptographer."
+
+Holmes picked up the paper, holding it up to the light. He sniffed it, then turned it over, examining the watermark.
+
+"The paper is cheap," Holmes murmured. "Newsprint, likely from a continental manufacturer. The ink is standard lead, but the typeface is distinct. Look at the serifs on the '4' and the '7'. They are slightly chipped. This was set on a specific press, one that has seen heavy use. And here—" he pointed to a faint smudge on the edge of the paper, "—there is a trace of tobacco ash. Not tobacco, mind you, but the residue of a specific blend. Latakia, I believe, mixed with a strong Virginia. A habit of a man who smokes heavily and thinks slowly."
+
+"Who is this man?" Arthur asked.
+
+"Someone who is close to Vance," Holmes said. "Someone who knows the workflow of your office. The fact that the code is in the personal ads suggests that the communication is being carried out in plain sight, under the guise of routine. It is a bold strategy, relying on the assumption that no one will look closely at the mundane."
+
+Holmes stood up and walked to the window, looking out into the fog.
+
+"You say the ads are messages between thieves. But why use the press? Why not meet in person?"
+
+"Because the press is safe," Arthur said. "No one is watching the ads. They are just words on a page. But the numbers... they are the key to a meeting. Or a heist."
+
+Holmes turned back, his eyes sharp. "You are right. It is not just a meeting. It is a coordination. The numbers likely correspond to a date, a time, and a location. The 'terrier' is the target. The 'reward' is the payment. And the 'no agents' is a warning to those who might try to intercept."

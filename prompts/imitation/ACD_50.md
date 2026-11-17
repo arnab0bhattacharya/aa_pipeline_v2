@@ -1,0 +1,160 @@
+---
+prompt_id: "ACD_50"
+arm: "imitation"
+author: "ACD"
+scenario_id: "ACD_50"
+mode: "past-abroad"
+anchor_id: "ACD_A22"
+anchor_chunk_id: "ACD_The_Return_of_Sherlock_Holmes_chunk_111"
+anchor_work: "The_Return_of_Sherlock_Holmes"
+anchor_form: "story collection"
+models: ["M1", "M2", "M3", "M4"]
+prompt_sha256: "f141bc07cef5ba9923db189ce95b41f8bd9ab897be4827b2492bcc7fd295b42d"
+---
+Write an original piece of prose fiction in the style of Arthur Conan Doyle (1859–1930).
+
+[Notes on the author's manner (for orientation, not a checklist)]
+A brisk, assured storyteller who treats every detail as possible evidence and keeps events moving toward a solution. Clean, well-proportioned sentences; exposition is delivered economically, and tension builds through quick exchanges and pointed reports. Plain, educated late-Victorian English, exact about objects, clothing, hands and weather, with a gentlemanly reserve. Talk is crisp and purposeful, each speaker sharply individuated by manner and class.
+
+[Style sample]
+The following passage is by Arthur Conan Doyle. It is provided only to show the author's style. Do not continue it, quote it, paraphrase it, or reuse any of its characters, names, places or events.
+<<<
+is it that you know?”
+
+“Pray sit down, madam. You will hurt yourself there if you fall.
+      I will not speak until you sit down. Thank you.”
+
+“I give you five minutes, Mr. Holmes.”
+
+“One is enough, Lady Hilda. I know of your visit to Eduardo
+      Lucas, of your giving him this document, of your ingenious return
+      to the room last night, and of the manner in which you took the
+      letter from the hiding-place under the carpet.”
+
+She stared at him with an ashen face and gulped twice before she
+      could speak.
+
+“You are mad, Mr. Holmes—you are mad!” she cried, at last.
+
+He drew a small piece of cardboard from his pocket. It was the
+      face of a woman cut out of a portrait.
+
+“I have carried this because I thought it might be useful,” said
+      he. “The policeman has recognized it.”
+
+She gave a gasp, and her head dropped back in the chair.
+
+“Come, Lady Hilda. You have the letter. The matter may still be
+      adjusted. I have no desire to bring trouble to you. My duty ends
+      when I have returned the lost letter to your husband. Take my
+      advice and be frank with me. It is your only chance.”
+
+Her courage was admirable. Even now she would not own defeat.
+
+“I tell you again, Mr. Holmes, that you are under some absurd
+      illusion.”
+
+Holmes rose from his chair.
+
+“I am sorry for you, Lady Hilda. I have done my best for you. I
+      can see that it is all in vain.”
+
+He rang the bell. The butler entered.
+
+“Is Mr. Trelawney Hope at home?”
+
+“He will be home, sir, at a quarter to one.”
+
+Holmes glanced at his watch.
+
+“Still a quarter of an hour,” said he. “Very good, I shall wait.”
+
+The butler had hardly closed the door behind him when Lady Hilda
+      was down on her knees at Holmes’s feet, her hands outstretched,
+      her beautiful face upturned and wet with her tears.
+
+“Oh, spare me, Mr. Holmes! Spare me!” she pleaded, in a frenzy of
+      supplication. “For heaven’s sake, don’t tell him! I love him so!
+      I would not bring one shadow on his life, and this I know would
+      break his noble heart.”
+
+Holmes raised the lady. “I am thankful, madam, that you have come
+      to your senses even at this last moment! There is not an instant
+      to lose. Where is the letter?”
+
+She darted across to a writing-desk, unlocked it, and drew out a
+      long blue envelope.
+
+“Here it is, Mr. Holmes. Would to heaven I had never seen it!”
+
+“How can we return it?” Holmes muttered. “Quick, quick, we must
+      think of some way! Where is the despatch-box?”
+
+“Still in his bedroom.”
+
+“What a stroke of luck! Quick, madam, bring it here!” A moment
+      later she had appeared with a red flat box in her hand.
+
+“How did you open it before? You have a duplicate key? Yes, of
+      course you have. Open it!”
+
+From out of her bosom Lady Hilda had drawn a small key. The box
+      flew open. It was stuffed with papers. Holmes thrust the blue
+      envelope deep down into the heart of them, between the leaves of
+      some other document. The box was shut, locked, and returned to
+      the bedroom.
+
+“Now we are ready for him,” said Holmes. “We have still ten
+      minutes. I am going far to screen you, Lady Hilda. In return you
+      will spend the time in telling me frankly the real meaning of
+      this extraordinary affair.”
+
+“Mr. Holmes, I will tell you everything,” cried the lady. “Oh,
+      Mr. Holmes, I would cut off my right hand before I gave him a
+      moment of sorrow! There is no woman in all London who loves her
+      husband as I do, and yet if he knew how I have acted—how I have
+      been compelled to act—he would never forgive me. For his own
+      honour stands so high that he could not forget or pardon a lapse
+      in another. Help me, Mr. Holmes! My happiness, his happiness, our
+      very lives are at stake!”
+
+“Quick, madam, the time grows short!”
+
+“It was a letter of mine, Mr. Holmes, an indiscreet letter
+      written before my marriage—a foolish letter, a letter of an
+      impulsive, loving girl. I meant no harm, and yet he would have
+      thought it criminal. Had he read that letter his confidence would
+      have been forever destroyed. It is years since I wrote it. I had
+      thought that the whole matter was forgotten. Then at last I heard
+      from this man, Lucas, that it had passed into his hands, and that
+      he would lay it before my husband. I implored his mercy. He said
+      that he would return my letter if I would bring him a certain
+      document which he described in my husband’s despatch-box. He had
+      some spy in the office who had told him of its existence. He
+      assured me that no harm could come to my husband. Put yourself in
+      my position, Mr. Holmes! What was I to do?”
+
+“Take your husband into your confidence.”
+
+“I could not, Mr. Holmes, I could not! On the one side seemed
+      certain ruin, on the other, terrible as it seemed to take my
+      husband’s paper, still in a matter of politics I could not
+      understand the consequences, while in a matter of love and trust
+      they were only too clear to me. I did it, Mr. Holmes! I took an
+      impression of his key. This man, Lucas, furnished a duplicate. I
+      opened his despatch-box, took the paper, and conveyed it to
+      Godolphin Street.”
+
+“What happened there, madam?”
+
+“I tapped at the door as agreed. Lucas opened it. I followed him into his room, leaving the hall door ajar behind me, for I feared to be alone with the man. I remember that there was a woman outside as I entered. Our business was soon done. He had my letter on his desk, I handed him the document. He gave me the letter. At this instant
+>>>
+
+[Scenario]
+A gentleman returned from mining in Mexico is found in his study unable to speak, having apparently suffered a stroke. On his desk is a letter in Spanish and a sketch of a church. His wife engages an investigator to discover what news so overwhelmed him.
+Setting: A house in Richmond, with a past in Mexico, 1890s
+
+[Requirements]
+- About 1,200 words of continuous narrative prose, in paragraphs.
+- Invent all names of characters and places.
+- No title, headings, notes or commentary before or after the story.

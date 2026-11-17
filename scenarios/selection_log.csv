@@ -1,0 +1,601 @@
+id,author,mode,kept,reason
+ACD_01,ACD,urban-case,True,selected
+ACD_02,ACD,urban-case,True,selected
+ACD_03,ACD,urban-case,True,selected
+ACD_04,ACD,urban-case,True,selected
+ACD_05,ACD,urban-case,True,selected
+ACD_06,ACD,urban-case,True,selected
+ACD_07,ACD,urban-case,True,selected
+ACD_08,ACD,urban-case,True,selected
+ACD_09,ACD,urban-case,True,selected
+ACD_10,ACD,urban-case,True,selected
+ACD_11,ACD,urban-case,True,selected
+ACD_12,ACD,urban-case,True,selected
+ACD_13,ACD,urban-case,True,selected
+ACD_14,ACD,urban-case,True,selected
+ACD_15,ACD,urban-case,True,selected
+ACD_16,ACD,urban-case,True,selected
+ACD_17,ACD,urban-case,True,selected
+ACD_18,ACD,urban-case,True,selected
+ACD_19,ACD,urban-case,True,selected
+ACD_20,ACD,urban-case,True,selected
+ACD_21,ACD,urban-case,True,selected
+ACD_22,ACD,urban-case,True,selected
+ACD_23,ACD,urban-case,True,selected
+ACD_24,ACD,urban-case,True,selected
+ACD_25,ACD,urban-case,True,selected
+ACD_26,ACD,urban-case,True,selected
+ACD_27,ACD,country-case,False,mode quota 8/16
+ACD_28,ACD,country-case,True,selected
+ACD_29,ACD,country-case,True,selected
+ACD_30,ACD,country-case,True,selected
+ACD_31,ACD,country-case,True,selected
+ACD_32,ACD,country-case,True,selected
+ACD_33,ACD,country-case,False,mode quota 8/16
+ACD_34,ACD,country-case,False,mode quota 8/16
+ACD_35,ACD,country-case,False,mode quota 8/16
+ACD_36,ACD,country-case,True,selected
+ACD_37,ACD,country-case,False,flagged: borderline: The Copper Beeches (hidden family member)
+ACD_38,ACD,country-case,False,mode quota 8/16
+ACD_39,ACD,country-case,False,mode quota 8/16
+ACD_40,ACD,country-case,False,mode quota 8/16
+ACD_41,ACD,past-abroad,True,selected
+ACD_42,ACD,past-abroad,True,selected
+ACD_43,ACD,past-abroad,True,selected
+ACD_44,ACD,past-abroad,True,selected
+ACD_45,ACD,past-abroad,True,selected
+ACD_46,ACD,past-abroad,True,selected
+ACD_47,ACD,past-abroad,True,selected
+ACD_48,ACD,past-abroad,True,selected
+ACD_49,ACD,past-abroad,True,selected
+ACD_50,ACD,past-abroad,True,selected
+ACD_51,ACD,urban-case,False,mode quota 31/32
+ACD_52,ACD,urban-case,True,selected
+ACD_53,ACD,urban-case,True,selected
+ACD_54,ACD,urban-case,True,selected
+ACD_55,ACD,country-case,True,selected
+ACD_56,ACD,country-case,True,selected
+ACD_57,ACD,urban-case,True,selected
+ACD_58,ACD,urban-case,True,selected
+ACD_59,ACD,past-abroad,True,selected
+ACD_60,ACD,country-case,False,mode quota 8/16
+CB_01,CB,dependent-woman,False,mode quota 10/17
+CB_02,CB,dependent-woman,True,selected
+CB_03,CB,foreign-school,True,selected
+CB_04,CB,industrial,True,selected
+CB_05,CB,dependent-woman,False,mode quota 10/17
+CB_06,CB,foreign-school,True,selected
+CB_07,CB,industrial,True,selected
+CB_08,CB,dependent-woman,True,selected
+CB_09,CB,foreign-school,True,selected
+CB_10,CB,governess,False,flagged: borderline: Jane Eyre (brusque guardian)
+CB_11,CB,industrial,True,selected
+CB_12,CB,dependent-woman,True,selected
+CB_13,CB,governess,True,selected
+CB_14,CB,foreign-school,True,selected
+CB_15,CB,industrial,True,selected
+CB_16,CB,dependent-woman,True,selected
+CB_17,CB,governess,True,selected
+CB_18,CB,foreign-school,True,selected
+CB_19,CB,industrial,True,selected
+CB_20,CB,dependent-woman,True,selected
+CB_21,CB,governess,True,selected
+CB_22,CB,foreign-school,True,selected
+CB_23,CB,industrial,True,selected
+CB_24,CB,dependent-woman,True,selected
+CB_25,CB,governess,True,selected
+CB_26,CB,foreign-school,True,selected
+CB_27,CB,industrial,True,selected
+CB_28,CB,dependent-woman,False,mode quota 10/17
+CB_29,CB,governess,True,selected
+CB_30,CB,foreign-school,True,selected
+CB_31,CB,industrial,True,selected
+CB_32,CB,dependent-woman,True,selected
+CB_33,CB,governess,True,selected
+CB_34,CB,foreign-school,True,selected
+CB_35,CB,industrial,True,selected
+CB_36,CB,dependent-woman,True,selected
+CB_37,CB,governess,True,selected
+CB_38,CB,foreign-school,True,selected
+CB_39,CB,industrial,True,selected
+CB_40,CB,dependent-woman,False,mode quota 10/17
+CB_41,CB,governess,True,selected
+CB_42,CB,foreign-school,True,selected
+CB_43,CB,industrial,True,selected
+CB_44,CB,dependent-woman,True,selected
+CB_45,CB,governess,True,selected
+CB_46,CB,foreign-school,True,selected
+CB_47,CB,industrial,True,selected
+CB_48,CB,dependent-woman,False,mode quota 10/17
+CB_49,CB,governess,False,mode quota 10/12
+CB_50,CB,foreign-school,True,selected
+CB_51,CB,industrial,True,selected
+CB_52,CB,dependent-woman,False,mode quota 10/17
+CB_53,CB,governess,False,mode quota 10/12
+CB_54,CB,foreign-school,True,selected
+CB_55,CB,industrial,True,selected
+CB_56,CB,dependent-woman,True,selected
+CB_57,CB,governess,True,selected
+CB_58,CB,foreign-school,True,selected
+CB_59,CB,industrial,True,selected
+CB_60,CB,dependent-woman,False,mode quota 10/17
+CD_01,CD,growing-up,True,selected
+CD_02,CD,growing-up,True,selected
+CD_03,CD,london-poor,False,flagged: non-corpus echo: Bleak House
+CD_04,CD,industrial,True,selected
+CD_05,CD,historical,True,selected
+CD_06,CD,growing-up,True,selected
+CD_07,CD,legal-institution,False,flagged: non-corpus echo: Bleak House
+CD_08,CD,london-poor,True,selected
+CD_09,CD,growing-up,True,selected
+CD_10,CD,industrial,True,selected
+CD_11,CD,historical,False,flagged: non-corpus echo: Barnaby Rudge
+CD_12,CD,growing-up,True,selected
+CD_13,CD,london-poor,True,selected
+CD_14,CD,growing-up,True,selected
+CD_15,CD,legal-institution,False,flagged: non-corpus echo: Little Dorrit
+CD_16,CD,historical,True,selected
+CD_17,CD,growing-up,True,selected
+CD_18,CD,industrial,True,selected
+CD_19,CD,london-poor,True,selected
+CD_20,CD,growing-up,True,selected
+CD_21,CD,legal-institution,True,selected
+CD_22,CD,growing-up,True,selected
+CD_23,CD,historical,True,selected
+CD_24,CD,london-poor,True,selected
+CD_25,CD,growing-up,True,selected
+CD_26,CD,industrial,True,selected
+CD_27,CD,legal-institution,True,selected
+CD_28,CD,growing-up,True,selected
+CD_29,CD,london-poor,True,selected
+CD_30,CD,historical,True,selected
+CD_31,CD,growing-up,True,selected
+CD_32,CD,industrial,True,selected
+CD_33,CD,legal-institution,False,flagged: non-corpus echo: Little Dorrit
+CD_34,CD,london-poor,False,flagged: non-corpus echo: Bleak House
+CD_35,CD,growing-up,True,selected
+CD_36,CD,historical,True,selected
+CD_37,CD,growing-up,False,flagged: non-corpus echo: Our Mutual Friend
+CD_38,CD,london-poor,True,selected
+CD_39,CD,industrial,True,selected
+CD_40,CD,growing-up,True,selected
+CD_41,CD,legal-institution,True,selected
+CD_42,CD,london-poor,True,selected
+CD_43,CD,growing-up,True,selected
+CD_44,CD,historical,True,selected
+CD_45,CD,growing-up,True,selected
+CD_46,CD,industrial,True,selected
+CD_47,CD,london-poor,True,selected
+CD_48,CD,growing-up,True,selected
+CD_49,CD,legal-institution,True,selected
+CD_50,CD,historical,True,selected
+CD_51,CD,growing-up,True,selected
+CD_52,CD,london-poor,True,selected
+CD_53,CD,growing-up,True,selected
+CD_54,CD,industrial,True,selected
+CD_55,CD,legal-institution,False,mode quota 4/5
+CD_56,CD,growing-up,False,flagged: borderline: David Copperfield (Micawber-like family)
+CD_57,CD,london-poor,False,flagged: non-corpus echo (strong): Our Mutual Friend
+CD_58,CD,historical,True,selected
+CD_59,CD,growing-up,True,selected
+CD_60,CD,industrial,True,selected
+GE_01,GE,provincial-town,True,selected
+GE_02,GE,rural-village,True,selected
+GE_03,GE,family-duty,True,selected
+GE_04,GE,society-vocation,False,mode quota 14/15
+GE_05,GE,provincial-town,False,mode quota 14/15
+GE_06,GE,rural-village,False,mode quota 13/15
+GE_07,GE,family-duty,True,selected
+GE_08,GE,society-vocation,True,selected
+GE_09,GE,provincial-town,True,selected
+GE_10,GE,rural-village,False,mode quota 13/15
+GE_11,GE,family-duty,False,mode quota 9/15
+GE_12,GE,society-vocation,True,selected
+GE_13,GE,provincial-town,True,selected
+GE_14,GE,rural-village,True,selected
+GE_15,GE,family-duty,True,selected
+GE_16,GE,society-vocation,True,selected
+GE_17,GE,provincial-town,True,selected
+GE_18,GE,rural-village,True,selected
+GE_19,GE,family-duty,False,mode quota 9/15
+GE_20,GE,society-vocation,True,selected
+GE_21,GE,provincial-town,True,selected
+GE_22,GE,rural-village,True,selected
+GE_23,GE,family-duty,True,selected
+GE_24,GE,society-vocation,True,selected
+GE_25,GE,provincial-town,True,selected
+GE_26,GE,rural-village,True,selected
+GE_27,GE,family-duty,False,mode quota 9/15
+GE_28,GE,society-vocation,True,selected
+GE_29,GE,provincial-town,True,selected
+GE_30,GE,rural-village,True,selected
+GE_31,GE,family-duty,False,mode quota 9/15
+GE_32,GE,society-vocation,True,selected
+GE_33,GE,provincial-town,True,selected
+GE_34,GE,rural-village,True,selected
+GE_35,GE,family-duty,True,selected
+GE_36,GE,society-vocation,True,selected
+GE_37,GE,provincial-town,True,selected
+GE_38,GE,rural-village,True,selected
+GE_39,GE,family-duty,True,selected
+GE_40,GE,society-vocation,True,selected
+GE_41,GE,provincial-town,True,selected
+GE_42,GE,rural-village,True,selected
+GE_43,GE,family-duty,True,selected
+GE_44,GE,society-vocation,True,selected
+GE_45,GE,provincial-town,True,selected
+GE_46,GE,rural-village,True,selected
+GE_47,GE,family-duty,True,selected
+GE_48,GE,society-vocation,True,selected
+GE_49,GE,provincial-town,True,selected
+GE_50,GE,rural-village,True,selected
+GE_51,GE,family-duty,False,mode quota 9/15
+GE_52,GE,society-vocation,True,selected
+GE_53,GE,provincial-town,True,selected
+GE_54,GE,rural-village,True,selected
+GE_55,GE,family-duty,False,mode quota 9/15
+GE_56,GE,society-vocation,True,selected
+GE_57,GE,provincial-town,True,selected
+GE_58,GE,rural-village,True,selected
+GE_59,GE,family-duty,True,selected
+GE_60,GE,society-vocation,True,selected
+HGW_01,HGW,realist-social,False,flagged: non-corpus echo: Kipps
+HGW_02,HGW,experiment-community,True,selected
+HGW_03,HGW,catastrophe,True,selected
+HGW_04,HGW,realist-social,True,selected
+HGW_05,HGW,remote-science,True,selected
+HGW_06,HGW,future,False,flagged: non-corpus echo: When the Sleeper Wakes
+HGW_07,HGW,realist-social,False,flagged: non-corpus echo: Kipps
+HGW_08,HGW,experiment-community,True,selected
+HGW_09,HGW,catastrophe,False,flagged: non-corpus echo: In the Days of the Comet
+HGW_10,HGW,realist-social,True,selected
+HGW_11,HGW,remote-science,True,selected
+HGW_12,HGW,future,True,selected
+HGW_13,HGW,catastrophe,True,selected
+HGW_14,HGW,realist-social,True,selected
+HGW_15,HGW,experiment-community,True,selected
+HGW_16,HGW,remote-science,False,flagged: non-corpus echo: Aepyornis Island
+HGW_17,HGW,future,True,selected
+HGW_18,HGW,catastrophe,True,selected
+HGW_19,HGW,realist-social,False,flagged: non-corpus echo: The History of Mr Polly
+HGW_20,HGW,experiment-community,True,selected
+HGW_21,HGW,remote-science,True,selected
+HGW_22,HGW,future,True,selected
+HGW_23,HGW,catastrophe,False,flagged: non-corpus echo: The War in the Air
+HGW_24,HGW,realist-social,True,selected
+HGW_25,HGW,experiment-community,True,selected
+HGW_26,HGW,remote-science,False,flagged: non-corpus echo: The Country of the Blind
+HGW_27,HGW,future,True,selected
+HGW_28,HGW,catastrophe,True,selected
+HGW_29,HGW,realist-social,True,selected
+HGW_30,HGW,experiment-community,True,selected
+HGW_31,HGW,remote-science,True,selected
+HGW_32,HGW,future,True,selected
+HGW_33,HGW,catastrophe,True,selected
+HGW_34,HGW,realist-social,True,selected
+HGW_35,HGW,experiment-community,False,flagged: non-corpus echo: The Stolen Bacillus
+HGW_36,HGW,remote-science,True,selected
+HGW_37,HGW,future,True,selected
+HGW_38,HGW,catastrophe,True,selected
+HGW_39,HGW,realist-social,True,selected
+HGW_40,HGW,experiment-community,True,selected
+HGW_41,HGW,remote-science,True,selected
+HGW_42,HGW,future,False,mode quota 8/9
+HGW_43,HGW,catastrophe,True,selected
+HGW_44,HGW,realist-social,True,selected
+HGW_45,HGW,experiment-community,True,selected
+HGW_46,HGW,remote-science,True,selected
+HGW_47,HGW,future,True,selected
+HGW_48,HGW,catastrophe,True,selected
+HGW_49,HGW,realist-social,True,selected
+HGW_50,HGW,experiment-community,True,selected
+HGW_51,HGW,remote-science,True,selected
+HGW_52,HGW,catastrophe,True,selected
+HGW_53,HGW,realist-social,True,selected
+HGW_54,HGW,future,True,selected
+HGW_55,HGW,catastrophe,True,selected
+HGW_56,HGW,realist-social,True,selected
+HGW_57,HGW,experiment-community,True,selected
+HGW_58,HGW,realist-social,True,selected
+HGW_59,HGW,remote-science,True,selected
+HGW_60,HGW,catastrophe,True,selected
+JA_01,JA,courtship,True,selected
+JA_02,JA,money,True,selected
+JA_03,JA,misjudgment,True,selected
+JA_04,JA,family-embarrassment,True,selected
+JA_05,JA,town-visit,True,selected
+JA_06,JA,courtship,True,selected
+JA_07,JA,money,False,mode quota 10/12
+JA_08,JA,misjudgment,True,selected
+JA_09,JA,family-embarrassment,True,selected
+JA_10,JA,town-visit,True,selected
+JA_11,JA,courtship,False,flagged: non-corpus echo: Mansfield Park
+JA_12,JA,money,True,selected
+JA_13,JA,misjudgment,True,selected
+JA_14,JA,family-embarrassment,True,selected
+JA_15,JA,town-visit,True,selected
+JA_16,JA,courtship,True,selected
+JA_17,JA,money,True,selected
+JA_18,JA,misjudgment,True,selected
+JA_19,JA,family-embarrassment,False,mode quota 10/12
+JA_20,JA,town-visit,True,selected
+JA_21,JA,courtship,True,selected
+JA_22,JA,money,True,selected
+JA_23,JA,misjudgment,True,selected
+JA_24,JA,family-embarrassment,True,selected
+JA_25,JA,town-visit,True,selected
+JA_26,JA,courtship,False,mode quota 10/11
+JA_27,JA,money,True,selected
+JA_28,JA,misjudgment,True,selected
+JA_29,JA,family-embarrassment,True,selected
+JA_30,JA,town-visit,False,mode quota 10/12
+JA_31,JA,courtship,True,selected
+JA_32,JA,money,True,selected
+JA_33,JA,misjudgment,False,flagged: borderline: Pride and Prejudice (overheard defence)
+JA_34,JA,family-embarrassment,True,selected
+JA_35,JA,town-visit,True,selected
+JA_36,JA,courtship,True,selected
+JA_37,JA,money,True,selected
+JA_38,JA,misjudgment,True,selected
+JA_39,JA,family-embarrassment,True,selected
+JA_40,JA,town-visit,True,selected
+JA_41,JA,courtship,True,selected
+JA_42,JA,money,True,selected
+JA_43,JA,misjudgment,True,selected
+JA_44,JA,family-embarrassment,False,mode quota 10/12
+JA_45,JA,town-visit,True,selected
+JA_46,JA,courtship,True,selected
+JA_47,JA,money,False,mode quota 10/12
+JA_48,JA,misjudgment,False,mode quota 10/11
+JA_49,JA,family-embarrassment,True,selected
+JA_50,JA,town-visit,True,selected
+JA_51,JA,courtship,True,selected
+JA_52,JA,money,True,selected
+JA_53,JA,misjudgment,True,selected
+JA_54,JA,family-embarrassment,True,selected
+JA_55,JA,town-visit,True,selected
+JA_56,JA,courtship,True,selected
+JA_57,JA,money,True,selected
+JA_58,JA,misjudgment,True,selected
+JA_59,JA,family-embarrassment,True,selected
+JA_60,JA,town-visit,False,mode quota 10/12
+JC_01,JC,sea-honour,True,selected
+JC_02,JC,latin-republic,True,selected
+JC_03,JC,london-conspiracy,True,selected
+JC_04,JC,russian-exile,True,selected
+JC_05,JC,colonial-interior,True,selected
+JC_06,JC,sea-honour,True,selected
+JC_07,JC,latin-republic,True,selected
+JC_08,JC,london-conspiracy,False,mode quota 9/13
+JC_09,JC,russian-exile,True,selected
+JC_10,JC,sea-honour,True,selected
+JC_11,JC,latin-republic,True,selected
+JC_12,JC,london-conspiracy,True,selected
+JC_13,JC,russian-exile,True,selected
+JC_14,JC,colonial-interior,True,selected
+JC_15,JC,sea-honour,False,flagged: non-corpus echo: The Secret Sharer
+JC_16,JC,latin-republic,True,selected
+JC_17,JC,london-conspiracy,False,mode quota 9/13
+JC_18,JC,russian-exile,True,selected
+JC_19,JC,sea-honour,True,selected
+JC_20,JC,latin-republic,True,selected
+JC_21,JC,london-conspiracy,True,selected
+JC_22,JC,russian-exile,True,selected
+JC_23,JC,colonial-interior,False,mode quota 4/6
+JC_24,JC,sea-honour,True,selected
+JC_25,JC,latin-republic,True,selected
+JC_26,JC,london-conspiracy,True,selected
+JC_27,JC,russian-exile,True,selected
+JC_28,JC,sea-honour,True,selected
+JC_29,JC,latin-republic,True,selected
+JC_30,JC,london-conspiracy,False,mode quota 9/13
+JC_31,JC,russian-exile,True,selected
+JC_32,JC,colonial-interior,True,selected
+JC_33,JC,sea-honour,True,selected
+JC_34,JC,latin-republic,True,selected
+JC_35,JC,london-conspiracy,True,selected
+JC_36,JC,russian-exile,False,mode quota 11/13
+JC_37,JC,sea-honour,True,selected
+JC_38,JC,latin-republic,True,selected
+JC_39,JC,london-conspiracy,True,selected
+JC_40,JC,russian-exile,True,selected
+JC_41,JC,colonial-interior,False,mode quota 4/6
+JC_42,JC,sea-honour,True,selected
+JC_43,JC,latin-republic,True,selected
+JC_44,JC,london-conspiracy,True,selected
+JC_45,JC,russian-exile,True,selected
+JC_46,JC,sea-honour,False,flagged: non-corpus echo: Youth
+JC_47,JC,latin-republic,True,selected
+JC_48,JC,london-conspiracy,True,selected
+JC_49,JC,russian-exile,True,selected
+JC_50,JC,colonial-interior,True,selected
+JC_51,JC,sea-honour,True,selected
+JC_52,JC,latin-republic,True,selected
+JC_53,JC,london-conspiracy,True,selected
+JC_54,JC,russian-exile,False,mode quota 11/13
+JC_55,JC,sea-honour,True,selected
+JC_56,JC,latin-republic,True,selected
+JC_57,JC,london-conspiracy,False,mode quota 9/13
+JC_58,JC,russian-exile,True,selected
+JC_59,JC,latin-republic,True,selected
+JC_60,JC,sea-honour,True,selected
+MS_01,MS,guilt-secret,True,selected
+MS_02,MS,ambition-science,True,selected
+MS_03,MS,future-catastrophe,True,selected
+MS_04,MS,grief-isolation,True,selected
+MS_05,MS,guilt-secret,True,selected
+MS_06,MS,italian-romance,True,selected
+MS_07,MS,future-catastrophe,True,selected
+MS_08,MS,ambition-science,True,selected
+MS_09,MS,guilt-secret,True,selected
+MS_10,MS,grief-isolation,False,mode quota 5/11
+MS_11,MS,future-catastrophe,True,selected
+MS_12,MS,ambition-science,True,selected
+MS_13,MS,guilt-secret,True,selected
+MS_14,MS,grief-isolation,False,mode quota 5/11
+MS_15,MS,future-catastrophe,True,selected
+MS_16,MS,guilt-secret,True,selected
+MS_17,MS,ambition-science,True,selected
+MS_18,MS,italian-romance,True,selected
+MS_19,MS,future-catastrophe,True,selected
+MS_20,MS,grief-isolation,True,selected
+MS_21,MS,guilt-secret,True,selected
+MS_22,MS,ambition-science,False,mode quota 9/11
+MS_23,MS,future-catastrophe,True,selected
+MS_24,MS,guilt-secret,True,selected
+MS_25,MS,grief-isolation,False,mode quota 5/11
+MS_26,MS,ambition-science,True,selected
+MS_27,MS,future-catastrophe,True,selected
+MS_28,MS,guilt-secret,True,selected
+MS_29,MS,grief-isolation,True,selected
+MS_30,MS,ambition-science,False,mode quota 9/11
+MS_31,MS,future-catastrophe,True,selected
+MS_32,MS,guilt-secret,True,selected
+MS_33,MS,italian-romance,False,mode quota 2/4
+MS_34,MS,grief-isolation,False,mode quota 5/11
+MS_35,MS,future-catastrophe,True,selected
+MS_36,MS,guilt-secret,True,selected
+MS_37,MS,ambition-science,True,selected
+MS_38,MS,future-catastrophe,True,selected
+MS_39,MS,guilt-secret,True,selected
+MS_40,MS,grief-isolation,False,mode quota 5/11
+MS_41,MS,future-catastrophe,True,selected
+MS_42,MS,guilt-secret,True,selected
+MS_43,MS,ambition-science,True,selected
+MS_44,MS,future-catastrophe,True,selected
+MS_45,MS,guilt-secret,True,selected
+MS_46,MS,grief-isolation,True,selected
+MS_47,MS,future-catastrophe,True,selected
+MS_48,MS,guilt-secret,True,selected
+MS_49,MS,ambition-science,True,selected
+MS_50,MS,future-catastrophe,True,selected
+MS_51,MS,guilt-secret,True,selected
+MS_52,MS,grief-isolation,True,selected
+MS_53,MS,future-catastrophe,True,selected
+MS_54,MS,italian-romance,False,mode quota 2/4
+MS_55,MS,guilt-secret,True,selected
+MS_56,MS,ambition-science,True,selected
+MS_57,MS,future-catastrophe,True,selected
+MS_58,MS,grief-isolation,False,mode quota 5/11
+MS_59,MS,guilt-secret,True,selected
+MS_60,MS,future-catastrophe,True,selected
+OW_01,OW,society,True,selected
+OW_02,OW,comic-tale,True,selected
+OW_03,OW,fairy-tale,True,selected
+OW_04,OW,society,True,selected
+OW_05,OW,comic-tale,True,selected
+OW_06,OW,fairy-tale,True,selected
+OW_07,OW,society,True,selected
+OW_08,OW,comic-tale,True,selected
+OW_09,OW,fairy-tale,True,selected
+OW_10,OW,society,True,selected
+OW_11,OW,comic-tale,True,selected
+OW_12,OW,fairy-tale,False,mode quota 18/20
+OW_13,OW,society,False,flagged: non-corpus echo: Lady Windermere's Fan
+OW_14,OW,comic-tale,True,selected
+OW_15,OW,fairy-tale,True,selected
+OW_16,OW,society,True,selected
+OW_17,OW,comic-tale,True,selected
+OW_18,OW,fairy-tale,True,selected
+OW_19,OW,society,True,selected
+OW_20,OW,comic-tale,True,selected
+OW_21,OW,fairy-tale,True,selected
+OW_22,OW,society,True,selected
+OW_23,OW,comic-tale,False,flagged: non-corpus echo: The Importance of Being Earnest
+OW_24,OW,fairy-tale,True,selected
+OW_25,OW,society,True,selected
+OW_26,OW,comic-tale,True,selected
+OW_27,OW,fairy-tale,True,selected
+OW_28,OW,society,True,selected
+OW_29,OW,comic-tale,False,mode quota 14/19
+OW_30,OW,fairy-tale,False,mode quota 18/20
+OW_31,OW,society,True,selected
+OW_32,OW,comic-tale,True,selected
+OW_33,OW,fairy-tale,True,selected
+OW_34,OW,society,True,selected
+OW_35,OW,comic-tale,True,selected
+OW_36,OW,fairy-tale,True,selected
+OW_37,OW,society,True,selected
+OW_38,OW,comic-tale,False,mode quota 14/19
+OW_39,OW,fairy-tale,True,selected
+OW_40,OW,society,True,selected
+OW_41,OW,comic-tale,False,mode quota 14/19
+OW_42,OW,fairy-tale,True,selected
+OW_43,OW,society,True,selected
+OW_44,OW,comic-tale,True,selected
+OW_45,OW,fairy-tale,True,selected
+OW_46,OW,society,True,selected
+OW_47,OW,comic-tale,True,selected
+OW_48,OW,fairy-tale,True,selected
+OW_49,OW,society,True,selected
+OW_50,OW,comic-tale,True,selected
+OW_51,OW,fairy-tale,True,selected
+OW_52,OW,society,True,selected
+OW_53,OW,comic-tale,True,selected
+OW_54,OW,fairy-tale,True,selected
+OW_55,OW,society,False,flagged: non-corpus echo: An Ideal Husband
+OW_56,OW,comic-tale,False,mode quota 14/19
+OW_57,OW,fairy-tale,True,selected
+OW_58,OW,society,True,selected
+OW_59,OW,comic-tale,False,mode quota 14/19
+OW_60,OW,fairy-tale,True,selected
+VW_01,VW,london-family,True,selected
+VW_02,VW,single-day,False,mode quota 11/15
+VW_03,VW,voyage-abroad,True,selected
+VW_04,VW,life-fragments,True,selected
+VW_05,VW,london-family,True,selected
+VW_06,VW,sketch,False,mode quota 3/7
+VW_07,VW,single-day,True,selected
+VW_08,VW,voyage-abroad,True,selected
+VW_09,VW,london-family,True,selected
+VW_10,VW,life-fragments,True,selected
+VW_11,VW,single-day,True,selected
+VW_12,VW,voyage-abroad,True,selected
+VW_13,VW,london-family,True,selected
+VW_14,VW,sketch,True,selected
+VW_15,VW,single-day,True,selected
+VW_16,VW,voyage-abroad,True,selected
+VW_17,VW,london-family,True,selected
+VW_18,VW,life-fragments,True,selected
+VW_19,VW,single-day,True,selected
+VW_20,VW,voyage-abroad,True,selected
+VW_21,VW,london-family,True,selected
+VW_22,VW,sketch,True,selected
+VW_23,VW,single-day,True,selected
+VW_24,VW,voyage-abroad,True,selected
+VW_25,VW,london-family,True,selected
+VW_26,VW,life-fragments,False,flagged: non-corpus echo: To the Lighthouse
+VW_27,VW,single-day,True,selected
+VW_28,VW,voyage-abroad,True,selected
+VW_29,VW,london-family,True,selected
+VW_30,VW,sketch,True,selected
+VW_31,VW,single-day,False,mode quota 11/15
+VW_32,VW,voyage-abroad,True,selected
+VW_33,VW,london-family,True,selected
+VW_34,VW,life-fragments,True,selected
+VW_35,VW,single-day,True,selected
+VW_36,VW,voyage-abroad,True,selected
+VW_37,VW,london-family,True,selected
+VW_38,VW,sketch,False,mode quota 3/7
+VW_39,VW,single-day,False,mode quota 11/15
+VW_40,VW,voyage-abroad,True,selected
+VW_41,VW,london-family,True,selected
+VW_42,VW,life-fragments,True,selected
+VW_43,VW,single-day,True,selected
+VW_44,VW,voyage-abroad,True,selected
+VW_45,VW,london-family,True,selected
+VW_46,VW,sketch,False,mode quota 3/7
+VW_47,VW,single-day,True,selected
+VW_48,VW,voyage-abroad,True,selected
+VW_49,VW,london-family,True,selected
+VW_50,VW,life-fragments,True,selected
+VW_51,VW,single-day,True,selected
+VW_52,VW,voyage-abroad,True,selected
+VW_53,VW,london-family,True,selected
+VW_54,VW,sketch,False,mode quota 3/7
+VW_55,VW,single-day,True,selected
+VW_56,VW,voyage-abroad,True,selected
+VW_57,VW,london-family,True,selected
+VW_58,VW,life-fragments,False,flagged: non-corpus echo: Orlando / Between the Acts
+VW_59,VW,single-day,False,mode quota 11/15
+VW_60,VW,voyage-abroad,True,selected

@@ -1,0 +1,69 @@
+It was upon a raw and gusty afternoon in the late autumn of the year ’93 that a matter of considerable delicacy was brought to my notice. The fog, that eternal confederate of London crime, had crept up from the river and lay in a yellow pall over the city, muffling the sounds of traffic and lending a spectral air to the gas-lamps which were already beginning to glow in the street below.
+
+My friend, Mr. Sherlock Holmes, sat before the fire, his sharp features illuminated by the dancing flames as he pondered the singular habits of a rare Sumatran tobacco. The silence of our rooms in Baker Street was broken only by the hissing of the coal and the distant rattle of a cab. It was a peace, however, that was destined to be short-lived, for the bell rang sharply, and a moment later Mrs. Hudson announced a lady who gave her name as Miss Eleanor Vance.
+
+She was a young woman of some twenty years, dressed in a manner that spoke of genteel poverty but maintained with scrupulous care. Her face was pale, and her eyes, dark and intelligent, held a look of desperate entreaty.
+
+“Mr. Holmes,” she began, her voice trembling slightly, “I am come to you upon a matter which concerns the honour, and perhaps the liberty, of the man I am to marry. It is the case of Mr. Julian Thorne, of the Naval Intelligence Office at Whitehall.”
+
+Holmes leaned forward, his languor gone in an instant. “The Thorne affair? It has been mentioned in the morning papers. A serious charge, Miss Vance. The theft of the contents of the ‘Admiralty Coastal Defence Memorandum,’ is it not?”
+
+“It is,” she cried. “But it is a monstrous error! Julian swears—upon his soul—that the document never left his sight. He is a man of the utmost integrity, Mr. Holmes. He has worked years to reach his position. To be accused of selling such secrets to a foreign power... it will ruin him.”
+
+“And the evidence against him?” Holmes asked, steepling his long fingers.
+
+“The report was found in his safe, but the copy—which he was in the act of checking—was missing. They say he must have copied the vital figures and sold the transcript. But Julian says he went to luncheon for no more than half an hour, and when he returned, the room was empty. He was the only one with a key.”
+
+Holmes sprang to his feet. “The game is afoot, Watson. A confidential report in Whitehall, a room locked from within, and a young man of unblemished character. This bears the hallmark of the unusual. Come, Miss Vance, we shall take a cab to the Admiralty. I must see this room for myself.”
+
+The Naval Intelligence Office was a labyrinth of corridors smelling of beeswax and old paper. We were met by the flustered Mr. Thorne, a young man whose shaking hands belied his sturdy appearance. He led us to a small, windowless room lined with iron cabinets.
+
+“This is where I sat,” he explained, pointing to a heavy oak desk. “The memorandum was here. I rose only to take my hat and coat. The door was unlocked, for it is a shared office, though I was alone at the time.”
+
+“And who else has access?” Holmes inquired, his eyes darting about the room, noting the position of the inkwells and the dust upon the sills.
+
+“There is the Head Clerk, Mr. Abernathy, and the new copying clerk, a man named Silas Croft.”
+
+“Croft?” Holmes paused. “Describe him.”
+
+“A queer fellow,” Thorne said. “He has been here but a month. He is a wizard with the copying press, but he has a habit that drives us all to distraction. He whistles. A low, tuneless, incessant whistling whenever he is at work. It is like the wind in a keyhole.”
+
+Holmes’s eyes gleamed. “Indeed. And did he whistle on the day of the theft?”
+
+“I... I believe so. It was in the morning, before I went to luncheon.”
+
+Holmes nodded slowly. “Watson, observe the carpet. There is a slight indentation near the corner of the desk, as if a heavy object had been dragged. And here, upon the polished surface of the cabinet, a smear of what appears to be... red sealing wax?”
+
+He touched it with a finger and brought it to his nose. “And a scent, faint but distinct. Not the standard Admiralty gum, but something cheaper, scented with lavender.”
+
+He turned to Miss Vance and Mr. Thorne. “I must interview this Mr. Croft. But I shall do so under a pretext. Watson, you shall pose as a surveyor of ventilation shafts. I shall be your assistant. Let us find the copying room.”
+
+We located the small, airless cubicle where Silas Croft toiled. He was a thin, cadaverous man with nervous hands and a habit of glancing over his shoulder. As we entered, the low, monotonous whistling stopped abruptly.
+
+“Good afternoon,” Holmes said cheerfully. “We are inspecting the airflow. Pray, continue your work.”
+
+Croft hesitated, then bent over his press. The whistling began again—a strange, repetitive motif, three notes rising and falling.
+
+Holmes moved about the room, ostensibly checking the walls, but his eyes were fixed on the clerk’s desk. There lay a pile of blotting paper and a pot of the cheap, lavender-scented ink Holmes had noted. Suddenly, Holmes stepped forward and snatched a sheet of waste paper from the bin.
+
+“An interesting air you whistle, Mr. Croft,” Holmes remarked softly.
+
+“It is nothing, sir. Just a habit.”
+
+“A habit that speaks volumes,” Holmes retorted. “Watson, do you hear it? The rhythm. It is not a tune. It is a code.”
+
+He held up the paper. Upon it were faint impressions, the reverse of a letter written recently. “The whistling was a distraction,” Holmes declared, his voice ringing with authority. “While you whistled, Mr. Croft, you were not merely copying; you were signaling. The three notes correspond to the Morse code for ‘S’, ‘O’, and ‘S’—a signal to an accomplice outside the window, or perhaps a rhythmic accompaniment to your own writing, allowing you to transcribe the figures without counting them aloud.”
+
+Croft’s face turned the colour of putty. He lunged for the desk, but Holmes was too quick, pinning his arm.
+
+“The missing transcript is here,” Holmes said, tapping the blotting paper. “The pressure of your pen has left the vital figures of the Coastal Defence Memorandum impressed upon this sheet. You stole the document while Mr. Thorne was at luncheon, copied it under the guise of your whistling habit, and were preparing to pass the information to a foreign agent this evening. The lavender ink was used to distinguish your illicit copy from the official text.”
+
+The clerk crumbled, confessing with a haste that suggested the burden of his crime had been heavy. He had been bribed by a foreign attaché, and the whistling was indeed a signal to a confederate in the courtyard below, telling him when the coast was clear.
+
+Later that evening, as we returned to Baker Street through the thinning fog, Holmes lit his pipe with a sigh of satisfaction.
+
+“A simple trick, Watson,” he observed, “but effective. The criminal often fancies himself a genius, yet he cannot resist the vanity of a personal mannerism. In this case, a man’s idle whistling was the thread upon which the whole tapestry of treason was hung.”
+
+“It was a brilliant piece of deduction,” said I.
+
+“Elementary,” he replied, watching the smoke curl towards the ceiling. “But let us be grateful that the Admiralty’s secrets are safe, and that Miss Vance may look forward to a wedding without the shadow of the gallows.”

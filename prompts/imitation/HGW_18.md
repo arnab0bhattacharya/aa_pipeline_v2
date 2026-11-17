@@ -1,0 +1,122 @@
+---
+prompt_id: "HGW_18"
+arm: "imitation"
+author: "HGW"
+scenario_id: "HGW_18"
+mode: "catastrophe"
+anchor_id: "HGW_A21"
+anchor_chunk_id: "HGW_The_war_of_the_worlds_chunk_12"
+anchor_work: "The_war_of_the_worlds"
+anchor_form: "novel"
+models: ["M1", "M2", "M3", "M4"]
+prompt_sha256: "afb31936c7743f57cbbf8d65e02691e3b5b8966c129acdf0bc94c7bd96f6f493"
+---
+Write an original piece of prose fiction in the style of H. G. Wells (1866–1946).
+
+[Notes on the author's manner (for orientation, not a checklist)]
+A clear, practical, often ironic voice with a journalist's or scientist's curiosity and an impatience with convention. Direct, energetic sentences move quickly from observation to speculation. Plain modern prose mixing technical and scientific vocabulary with ordinary middle-class idiom; extraordinary events reported matter-of-factly. Talk is colloquial and lively, from comic ordinary people to earnest, argumentative idealists.
+
+[Style sample]
+The following passage is by H. G. Wells. It is provided only to show the author's style. Do not continue it, quote it, paraphrase it, or reuse any of its characters, names, places or events.
+<<<
+anything; the officers were mysterious as well as busy. I found people in the town quite secure again in the presence of the military, and I heard for the first time from Marshall, the tobacconist, that his son was among the dead on the common. The soldiers had made the people on the outskirts of Horsell lock up and leave their houses.
+
+I got back to lunch about two, very tired for, as I have said, the day
+was extremely hot and dull; and in order to refresh myself I took a
+cold bath in the afternoon. About half past four I went up to the
+railway station to get an evening paper, for the morning papers had
+contained only a very inaccurate description of the killing of Stent,
+Henderson, Ogilvy, and the others. But there was little I didn’t know.
+The Martians did not show an inch of themselves. They seemed busy in
+their pit, and there was a sound of hammering and an almost continuous
+streamer of smoke. Apparently they were busy getting ready for a
+struggle. “Fresh attempts have been made to signal, but without
+success,” was the stereotyped formula of the papers. A sapper told me
+it was done by a man in a ditch with a flag on a long pole. The
+Martians took as much notice of such advances as we should of the
+lowing of a cow.
+
+I must confess the sight of all this armament, all this preparation,
+greatly excited me. My imagination became belligerent, and defeated the
+invaders in a dozen striking ways; something of my schoolboy dreams of
+battle and heroism came back. It hardly seemed a fair fight to me at
+that time. They seemed very helpless in that pit of theirs.
+
+About three o’clock there began the thud of a gun at measured intervals
+from Chertsey or Addlestone. I learned that the smouldering pine wood
+into which the second cylinder had fallen was being shelled, in the
+hope of destroying that object before it opened. It was only about
+five, however, that a field gun reached Chobham for use against the
+first body of Martians.
+
+About six in the evening, as I sat at tea with my wife in the
+summerhouse talking vigorously about the battle that was lowering upon
+us, I heard a muffled detonation from the common, and immediately after
+a gust of firing. Close on the heels of that came a violent rattling
+crash, quite close to us, that shook the ground; and, starting out upon
+the lawn, I saw the tops of the trees about the Oriental College burst
+into smoky red flame, and the tower of the little church beside it
+slide down into ruin. The pinnacle of the mosque had vanished, and the
+roof line of the college itself looked as if a hundred-ton gun had been
+at work upon it. One of our chimneys cracked as if a shot had hit it,
+flew, and a piece of it came clattering down the tiles and made a heap
+of broken red fragments upon the flower bed by my study window.
+
+I and my wife stood amazed. Then I realised that the crest of Maybury
+Hill must be within range of the Martians’ Heat-Ray now that the
+college was cleared out of the way.
+
+At that I gripped my wife’s arm, and without ceremony ran her out into
+the road. Then I fetched out the servant, telling her I would go
+upstairs myself for the box she was clamouring for.
+
+“We can’t possibly stay here,” I said; and as I spoke the firing
+reopened for a moment upon the common.
+
+“But where are we to go?” said my wife in terror.
+
+I thought perplexed. Then I remembered her cousins at Leatherhead.
+
+“Leatherhead!” I shouted above the sudden noise.
+
+She looked away from me downhill. The people were coming out of their
+houses, astonished.
+
+“How are we to get to Leatherhead?” she said.
+
+Down the hill I saw a bevy of hussars ride under the railway bridge;
+three galloped through the open gates of the Oriental College; two
+others dismounted, and began running from house to house. The sun,
+shining through the smoke that drove up from the tops of the trees,
+seemed blood red, and threw an unfamiliar lurid light upon everything.
+
+“Stop here,” said I; “you are safe here;” and I started off at once for
+the Spotted Dog, for I knew the landlord had a horse and dog cart. I
+ran, for I perceived that in a moment everyone upon this side of the
+hill would be moving. I found him in his bar, quite unaware of what was
+going on behind his house. A man stood with his back to me, talking to
+him.
+
+“I must have a pound,” said the landlord, “and I’ve no one to drive
+it.”
+
+“I’ll give you two,” said I, over the stranger’s shoulder.
+
+“What for?”
+
+“And I’ll bring it back by midnight,” I said.
+
+“Lord!” said the landlord; “what’s the hurry? I’m selling my bit of a
+pig. Two pounds, and you bring it back? What’s going on now?”
+
+I explained hastily that I had to leave my home, and so secured the dog cart. At the time it did not seem to me nearly so urgent that the landlord should leave his. I took care to have the cart there and then, drove it off down the road, and, leaving it in charge of my wife and servant, rushed into my house and packed a few valuables, such plate as we had, and so forth. The beech trees below the house were burning while I did this, and the palings up the road glowed red. While I was occupied in this way, one of the dismounted hussars came running up. He was going from house to house, warning people to leave. He was going on as I came out of my front door, lugging my treasures, done up in a tablecloth. I shouted
+>>>
+
+[Scenario]
+An earthquake strikes the south of England without warning. A shop assistant and a young lady who has never done anything for herself are trapped together in a collapsed tea room, and must dig their way out.
+Setting: A town in Kent, 1900s
+
+[Requirements]
+- About 1,200 words of continuous narrative prose, in paragraphs.
+- Invent all names of characters and places.
+- No title, headings, notes or commentary before or after the story.

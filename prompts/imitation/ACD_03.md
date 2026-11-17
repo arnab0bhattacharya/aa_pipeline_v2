@@ -1,0 +1,114 @@
+---
+prompt_id: "ACD_03"
+arm: "imitation"
+author: "ACD"
+scenario_id: "ACD_03"
+mode: "urban-case"
+anchor_id: "ACD_A23"
+anchor_chunk_id: "ACD_The_Sign_of_the_Four_chunk_32"
+anchor_work: "The_Sign_of_the_Four"
+anchor_form: "novel"
+models: ["M1", "M2", "M3", "M4"]
+prompt_sha256: "b12462d7ab29df3acade42a86596e9184a7b6094c01a383f8cb0003e97fe0179"
+---
+Write an original piece of prose fiction in the style of Arthur Conan Doyle (1859–1930).
+
+[Notes on the author's manner (for orientation, not a checklist)]
+A brisk, assured storyteller who treats every detail as possible evidence and keeps events moving toward a solution. Clean, well-proportioned sentences; exposition is delivered economically, and tension builds through quick exchanges and pointed reports. Plain, educated late-Victorian English, exact about objects, clothing, hands and weather, with a gentlemanly reserve. Talk is crisp and purposeful, each speaker sharply individuated by manner and class.
+
+[Style sample]
+The following passage is by Arthur Conan Doyle. It is provided only to show the author's style. Do not continue it, quote it, paraphrase it, or reuse any of its characters, names, places or events.
+<<<
+in my life as when I saw him grinning at me with his head on his shoulder as I climbed through the window. It fairly shook me, sir. I’d have half killed Tonga for it if he had not scrambled off. That was how he came to leave his club, and some of his darts too, as he tells me, which I dare say helped to put you on our track; though how you kept on it is more than I can tell. I don’t feel no malice against you for it. But it does seem a queer thing,” he added, with a bitter smile, “that I who have a fair claim to nigh upon half a million of money should spend the first half of my life building a breakwater in the Andamans, and am like to spend the other half digging drains at Dartmoor. It was an evil day for me when first I clapped eyes upon the merchant Achmet and had to do with the Agra treasure, which never brought anything but a curse yet upon the man who owned it. To him it brought murder, to Major Sholto it brought fear and guilt, to me it has meant slavery for life.”
+
+At this moment Athelney Jones thrust his broad face and heavy shoulders
+into the tiny cabin. “Quite a family party,” he remarked. “I think I
+shall have a pull at that flask, Holmes. Well, I think we may all
+congratulate each other. Pity we didn’t take the other alive; but there
+was no choice. I say, Holmes, you must confess that you cut it rather
+fine. It was all we could do to overhaul her.”
+
+“All is well that ends well,” said Holmes. “But I certainly did not
+know that the _Aurora_ was such a clipper.”
+
+“Smith says she is one of the fastest launches on the river, and that
+if he had had another man to help him with the engines we should never
+have caught her. He swears he knew nothing of this Norwood business.”
+
+“Neither he did,” cried our prisoner,—“not a word. I chose his launch
+because I heard that she was a flier. We told him nothing, but we paid
+him well, and he was to get something handsome if we reached our
+vessel, the _Esmeralda_, at Gravesend, outward bound for the Brazils.”
+
+“Well, if he has done no wrong we shall see that no wrong comes to him.
+If we are pretty quick in catching our men, we are not so quick in
+condemning them.” It was amusing to notice how the consequential Jones
+was already beginning to give himself airs on the strength of the
+capture. From the slight smile which played over Sherlock Holmes’s
+face, I could see that the speech had not been lost upon him.
+
+“We will be at Vauxhall Bridge presently,” said Jones, “and shall land
+you, Dr. Watson, with the treasure-box. I need hardly tell you that I
+am taking a very grave responsibility upon myself in doing this. It is
+most irregular; but of course an agreement is an agreement. I must,
+however, as a matter of duty, send an inspector with you, since you
+have so valuable a charge. You will drive, no doubt?”
+
+“Yes, I shall drive.”
+
+“It is a pity there is no key, that we may make an inventory first. You
+will have to break it open. Where is the key, my man?”
+
+“At the bottom of the river,” said Small, shortly.
+
+“Hum! There was no use your giving this unnecessary trouble. We have
+had work enough already through you. However, doctor, I need not warn
+you to be careful. Bring the box back with you to the Baker Street
+rooms. You will find us there, on our way to the station.”
+
+They landed me at Vauxhall, with my heavy iron box, and with a bluff,
+genial inspector as my companion. A quarter of an hour’s drive brought
+us to Mrs. Cecil Forrester’s. The servant seemed surprised at so late a
+visitor. Mrs. Cecil Forrester was out for the evening, she explained,
+and likely to be very late. Miss Morstan, however, was in the
+drawing-room: so to the drawing-room I went, box in hand, leaving the
+obliging inspector in the cab.
+
+She was seated by the open window, dressed in some sort of white
+diaphanous material, with a little touch of scarlet at the neck and
+waist. The soft light of a shaded lamp fell upon her as she leaned back
+in the basket chair, playing over her sweet, grave face, and tinting
+with a dull, metallic sparkle the rich coils of her luxuriant hair. One
+white arm and hand drooped over the side of the chair, and her whole
+pose and figure spoke of an absorbing melancholy. At the sound of my
+foot-fall she sprang to her feet, however, and a bright flush of
+surprise and of pleasure coloured her pale cheeks.
+
+“I heard a cab drive up,” she said. “I thought that Mrs. Forrester had
+come back very early, but I never dreamed that it might be you. What
+news have you brought me?”
+
+“I have brought something better than news,” said I, putting down the
+box upon the table and speaking jovially and boisterously, though my
+heart was heavy within me. “I have brought you something which is worth
+all the news in the world. I have brought you a fortune.”
+
+She glanced at the iron box. “Is that the treasure, then?” she asked,
+coolly enough.
+
+“Yes, this is the great Agra treasure. Half of it is yours and half is
+Thaddeus Sholto’s. You will have a couple of hundred thousand each.
+Think of that! An annuity of ten thousand pounds. There will be few
+richer young ladies in England. Is it not glorious?”
+
+I think that I must have been rather overacting my delight, and that she detected a hollow ring in my congratulations, for I saw her eyebrows rise a little, and she glanced
+>>>
+
+[Scenario]
+A florist who supplies flowers to a large hotel notices that one guest orders a fresh white lily every morning for a room the hotel records as empty. When the florist's errand boy is turned away by a porter he has never seen before, she consults a private investigator.
+Setting: Covent Garden and the Strand, London, 1890s
+
+[Requirements]
+- About 1,200 words of continuous narrative prose, in paragraphs.
+- Invent all names of characters and places.
+- No title, headings, notes or commentary before or after the story.

@@ -1,0 +1,18 @@
+{
+ "seed": 42,
+ "model_slots": [
+  "M1",
+  "M2",
+  "M3",
+  "M4"
+ ],
+ "inputs_sha256": {
+  "scenarios_final_paired.csv": "e0cd128389e4b2d9023eb012fd19fae50b6ae4f71da87ea3b728839646634c51",
+  "anchor_manifest.csv": "9bc3e70875452076860f5feab1c36753317c7f25df8ef8b19f77836eb4e01eb0",
+  "cue_bank.json": "9e30ac1b4194bf0a2b67dc89d7455230145453d4d52bf0a8d6b9f4f71e64c782"
+ },
+ "imitation_template": "Write an original piece of prose fiction in the style of {name} ({dates}).\n\n[Notes on the author's manner (for orientation, not a checklist)]\n{cue}\n\n[Style sample]\nThe following passage is by {name}. It is provided only to show the author's style. Do not continue it, quote it, paraphrase it, or reuse any of its characters, names, places or events.\n<<<\n{anchor}\n>>>\n\n[Scenario]\n{premise}\nSetting: {setting}\n\n[Requirements]\n- About 1,200 words of continuous narrative prose, in paragraphs.\n- Invent all names of characters and places.\n- No title, headings, notes or commentary before or after the story.",
+ "control_template": "Write an original piece of prose fiction.\n\n[Scenario]\n{premise}\nSetting: {setting}\n\n[Requirements]\n- About 1,200 words of continuous narrative prose, in paragraphs.\n- Invent all names of characters and places.\n- No title, headings, notes or commentary before or after the story.",
+ "n_prompts": 1000,
+ "n_calls": 2500
+}

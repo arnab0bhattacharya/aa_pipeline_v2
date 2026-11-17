@@ -1,0 +1,116 @@
+---
+prompt_id: "HGW_39"
+arm: "imitation"
+author: "HGW"
+scenario_id: "HGW_39"
+mode: "realist-social"
+anchor_id: "HGW_A02"
+anchor_chunk_id: "HGW_Ann_Veronica_A_Modern_Love_Story_chunk_30"
+anchor_work: "Ann_Veronica_A_Modern_Love_Story"
+anchor_form: "novel"
+models: ["M1", "M2", "M3", "M4"]
+prompt_sha256: "1ad9d92057bb8804583e053de22519d1d3fec963b25267337fad616374bb2d4f"
+---
+Write an original piece of prose fiction in the style of H. G. Wells (1866–1946).
+
+[Notes on the author's manner (for orientation, not a checklist)]
+A clear, practical, often ironic voice with a journalist's or scientist's curiosity and an impatience with convention. Direct, energetic sentences move quickly from observation to speculation. Plain modern prose mixing technical and scientific vocabulary with ordinary middle-class idiom; extraordinary events reported matter-of-factly. Talk is colloquial and lively, from comic ordinary people to earnest, argumentative idealists.
+
+[Style sample]
+The following passage is by H. G. Wells. It is provided only to show the author's style. Do not continue it, quote it, paraphrase it, or reuse any of its characters, names, places or events.
+<<<
+toward the region about Titchfield Street. Such apartments as she saw were either scandalously dirty or unaccountably dear, or both. And some were adorned with engravings that struck her as being more vulgar and undesirable than anything she had ever seen in her life. Ann Veronica loved beautiful things, and the beauty of undraped loveliness not least among them; but these were pictures that did but insist coarsely upon the roundness of women’s bodies. The windows of these rooms were obscured with draperies, their floors a carpet patchwork; the china ornaments on their mantels were of a class apart. After the first onset several of the women who had apartments to let said she would not do for them, and in effect dismissed her. This also struck her as odd.
+
+About many of these houses hung a mysterious taint as of something
+weakly and commonly and dustily evil; the women who negotiated the rooms
+looked out through a friendly manner as though it was a mask, with hard,
+defiant eyes. Then one old crone, short-sighted and shaky-handed, called
+Ann Veronica “dearie,” and made some remark, obscure and slangy, of
+which the spirit rather than the words penetrated to her understanding.
+
+For a time she looked at no more apartments, and walked through
+gaunt and ill-cleaned streets, through the sordid under side of life,
+perplexed and troubled, ashamed of her previous obtuseness.
+
+She had something of the feeling a Hindoo must experience who has been
+into surroundings or touched something that offends his caste. She
+passed people in the streets and regarded them with a quickening
+apprehension, once or twice came girls dressed in slatternly finery,
+going toward Regent Street from out these places. It did not occur to
+her that they at least had found a way of earning a living, and had that
+much economic superiority to herself. It did not occur to her that save
+for some accidents of education and character they had souls like her
+own.
+
+For a time Ann Veronica went on her way gauging the quality of sordid
+streets. At last, a little way to the northward of Euston Road, the
+moral cloud seemed to lift, the moral atmosphere to change; clean blinds
+appeared in the windows, clean doorsteps before the doors, a different
+appeal in the neatly placed cards bearing the word
+
+--------------------------
+     |        APARTMENTS        |
+     --------------------------
+
+in the clear bright windows. At last in a street near the Hampstead Road
+she hit upon a room that had an exceptional quality of space and order,
+and a tall woman with a kindly face to show it. “You’re a student,
+perhaps?” said the tall woman. “At the Tredgold Women’s College,” said
+Ann Veronica. She felt it would save explanations if she did not state
+she had left her home and was looking for employment. The room was
+papered with green, large-patterned paper that was at worst a trifle
+dingy, and the arm-chair and the seats of the other chairs were covered
+with the unusual brightness of a large-patterned chintz, which also
+supplied the window-curtain. There was a round table covered, not with
+the usual “tapestry” cover, but with a plain green cloth that went
+passably with the wall-paper. In the recess beside the fireplace
+were some open bookshelves. The carpet was a quiet drugget and not
+excessively worn, and the bed in the corner was covered by a white
+quilt. There were neither texts nor rubbish on the walls, but only a
+stirring version of Belshazzar’s feast, a steel engraving in the early
+Victorian manner that had some satisfactory blacks. And the woman who
+showed this room was tall, with an understanding eye and the quiet
+manner of the well-trained servant.
+
+Ann Veronica brought her luggage in a cab from the hotel; she tipped the
+hotel porter sixpence and overpaid the cabman eighteenpence, unpacked
+some of her books and possessions, and so made the room a little
+homelike, and then sat down in a by no means uncomfortable arm-chair
+before the fire. She had arranged for a supper of tea, a boiled egg, and
+some tinned peaches. She had discussed the general question of supplies
+with the helpful landlady. “And now,” said Ann Veronica surveying her
+apartment with an unprecedented sense of proprietorship, “what is the
+next step?”
+
+She spent the evening in writing--it was a little difficult--to her
+father and--which was easier--to the Widgetts. She was greatly heartened
+by doing this. The necessity of defending herself and assuming a
+confident and secure tone did much to dispell the sense of being
+exposed and indefensible in a huge dingy world that abounded in sinister
+possibilities. She addressed her letters, meditated on them for a time,
+and then took them out and posted them. Afterward she wanted to get her
+letter to her father back in order to read it over again, and, if it
+tallied with her general impression of it, re-write it.
+
+He would know her address to-morrow. She reflected upon that with a
+thrill of terror that was also, somehow, in some faint remote way,
+gleeful.
+
+“Dear old Daddy,” she said, “he’ll make a fearful fuss. Well, it had to
+happen somewhen.... Somehow. I wonder what he’ll say?”
+
+CHAPTER THE SIXTH
+
+EXPOSTULATIONS
+
+The next morning opened calmly, and Ann Veronica sat in her own room, her very own room, and consumed an egg and marmalade, and read the advertisements in the Daily Telegraph. Then began expostulations, preluded by a telegram and headed by her aunt. The telegram reminded Ann Veronica that she had no place for interviews except her bed-sitting-room, and she sought her landlady and negotiated hastily for the use of the ground floor parlor, which very fortunately was vacant. She explained she was expecting an important interview, and asked that her visitor should be duly shown in. Her aunt arrived about half-past ten, in black and with an unusually thick spotted veil. She raised this with the air of a conspirator unmasking, and displayed a tear-flushed face. For a moment
+>>>
+
+[Scenario]
+A self-made manufacturer of a patent tonic, who has grown rich on advertising, decides to stand for Parliament. His nephew, who helped him build the business, is ashamed of the tonic and admires the uncle anyway.
+Setting: London and a Midlands constituency, 1900s
+
+[Requirements]
+- About 1,200 words of continuous narrative prose, in paragraphs.
+- Invent all names of characters and places.
+- No title, headings, notes or commentary before or after the story.

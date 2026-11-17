@@ -1,0 +1,7 @@
+id,rule,hit,decision,reason
+HGW_02,R4_persons,inn,false_positive,spaCy tagged the common noun 'inn' as PERSON
+HGW_37,R4_persons,grey hair,false_positive,spaCy tagged 'grey hair' as PERSON
+HGW_48,R4_persons,Weald,false_positive,real region (the Weald of Kent) tagged as PERSON
+VW_16,R4_persons,Sicily,false_positive,real place tagged as PERSON
+JC_50,R3_names,Eastern,false_positive,ordinary adjective ('Eastern port'); not a fictional name
+JC_34|JC_56,R6_similarity,0.341,keep_for_human_review,both concern a foreigner in a South American port caught by revolution; human reader to decide whether to drop one

@@ -1,0 +1,5 @@
+level,n_other,n_fw,n_wngram,n_pos,n_input,dropped_nan,dropped_zero_var,n_used,n_components,variance_explained
+pca_full,29.0,146,27.0,80.0,282.0,0.0,0.0,282.0,183.0,0.9506293943597833
+pca_no_fw,29.0,0,27.0,80.0,136.0,0.0,0.0,136.0,80.0,0.9514924781273062
+pca_no_lex,29.0,0,0.0,80.0,109.0,0.0,0.0,109.0,59.0,0.9529571256913252
+delta,,146,,,,,,,,

@@ -1,0 +1,74 @@
+{
+  "authors": [
+    "ACD",
+    "CB",
+    "CD",
+    "GE",
+    "HGW",
+    "JA",
+    "JC",
+    "MS",
+    "OW",
+    "VW"
+  ],
+  "n_features": 282,
+  "levels": {
+    "pca_full": {
+      "n_input": 282,
+      "dropped_nan": 0,
+      "dropped_zero_var": 0,
+      "n_used": 282,
+      "n_components": 183,
+      "variance_explained": 0.9506293943597833,
+      "pc_variance_ratio_1to5": [
+        0.11984454928764508,
+        0.0586370926799245,
+        0.032960501313403966,
+        0.027787888553377275,
+        0.024871095574456617
+      ]
+    },
+    "pca_no_fw": {
+      "n_input": 136,
+      "dropped_nan": 0,
+      "dropped_zero_var": 0,
+      "n_used": 136,
+      "n_components": 80,
+      "variance_explained": 0.9514924781273062,
+      "pc_variance_ratio_1to5": [
+        0.1819542967919963,
+        0.07929731819675159,
+        0.047047746901053976,
+        0.0427640464500849,
+        0.034229431903317724
+      ]
+    },
+    "pca_no_lex": {
+      "n_input": 109,
+      "dropped_nan": 0,
+      "dropped_zero_var": 0,
+      "n_used": 109,
+      "n_components": 59,
+      "variance_explained": 0.9529571256913252,
+      "pc_variance_ratio_1to5": [
+        0.20813314310044026,
+        0.09339564262709354,
+        0.05612957558417716,
+        0.0491733161048786,
+        0.038304304101272356
+      ]
+    }
+  },
+  "verification_max_abs_diff_vs_generated_csv": {
+    "burrows": 2.220446049250313e-16,
+    "cosine": 6.661338147750939e-16,
+    "pca_full": 2.220446049250313e-15,
+    "pca_no_fw": 2.6645352591003757e-15,
+    "pca_no_lex": 1.7763568394002505e-15
+  },
+  "versions": {
+    "numpy": "2.2.6",
+    "sklearn": "1.7.2",
+    "spacy": "3.8.7"
+  }
+}

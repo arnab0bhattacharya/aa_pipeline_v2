@@ -1,0 +1,62 @@
+{
+ "ACD": [
+  "A brisk, assured storyteller who treats every detail as possible evidence and keeps events moving toward a solution.",
+  "Clean, well-proportioned sentences; exposition is delivered economically, and tension builds through quick exchanges and pointed reports.",
+  "Plain, educated late-Victorian English, exact about objects, clothing, hands and weather, with a gentlemanly reserve.",
+  "Talk is crisp and purposeful, each speaker sharply individuated by manner and class."
+ ],
+ "CB": [
+  "Intense and passionate, giving inner feeling urgency and moral seriousness, with a fierce sense of injustice.",
+  "Vigorous sentences alternate between hard-won restraint and sudden surges of emotion.",
+  "Plain, forceful words set against vivid, sometimes Gothic imagery of weather, fire and landscape, with scripture close at hand.",
+  "Dialogue is combative and probing; characters test one another in sharp, candid exchanges."
+ ],
+ "CD": [
+  "An exuberant, theatrical storyteller who moves freely between comedy, pathos and indignation and comments openly on characters.",
+  "Expansive sentences accumulate through repetition, parallel phrasing and comic elaboration.",
+  "Crowded, vivid description of streets, interiors and institutions, with fanciful comparisons that bring objects to life.",
+  "Characters are marked by distinctive idiolects, catchphrases and verbal tics, often comic."
+ ],
+ "GE": [
+  "A wise, sympathetic, intellectually weighty narrator who reflects on motive and generalises about human nature.",
+  "Long, carefully qualified sentences weigh causes against consequences and trace the slow growth of feeling.",
+  "Learned and analytic vocabulary, drawing on science, history and philosophy, yet grounded in concrete provincial detail.",
+  "Characters speak in voices sharply differentiated by class and region, including rural dialect."
+ ],
+ "HGW": [
+  "A clear, practical, often ironic voice with a journalist's or scientist's curiosity and an impatience with convention.",
+  "Direct, energetic sentences move quickly from observation to speculation.",
+  "Plain modern prose mixing technical and scientific vocabulary with ordinary middle-class idiom; extraordinary events reported matter-of-factly.",
+  "Talk is colloquial and lively, from comic ordinary people to earnest, argumentative idealists."
+ ],
+ "JA": [
+  "Poised, ironic narration, closely attuned to characters' thoughts and slipping into their view with gentle mockery.",
+  "Elegant, balanced sentences prefer understatement to emphasis and often turn on a quiet antithesis.",
+  "An abstract vocabulary of judgement, manners, feeling and conduct, with sparse physical description.",
+  "Conversation is a contest of social position, revealing folly and good sense in what each speaker chooses to say."
+ ],
+ "JC": [
+  "A brooding, morally searching voice; events are filtered through memory, interpretation and ironic distance.",
+  "Long, rhythmic sentences layered with qualification, often rendering an impression before its meaning is understood.",
+  "Dense atmospheric description of light, darkness, heat, water and silence, beside abstract moral vocabulary.",
+  "Speech is halting, oblique or formal, with foreign idioms and much left unsaid."
+ ],
+ "MS": [
+  "An earnest, impassioned, confessional voice charged with sensibility and melancholy, inclined to reflect gravely on its own suffering.",
+  "Long, flowing, emotionally heightened sentences build through cumulative clauses toward anguish or exaltation.",
+  "Elevated Romantic diction; sublime landscapes, storms, solitude and ruin are described through the feelings they arouse.",
+  "Speech is eloquent and declamatory, often extended into impassioned appeals or laments."
+ ],
+ "OW": [
+  "An urbane, detached voice that delights in paradox and the inversion of moral commonplaces.",
+  "Polished, balanced sentences often turn on an epigrammatic reversal; in fable, a cadenced, solemn simplicity.",
+  "Decorative aesthetic imagery of jewels, flowers, colours and fabrics, beside drawing-room elegance.",
+  "Talk sparkles with aphorism and repartee; characters say outrageous things with perfect composure."
+ ],
+ "VW": [
+  "Fluid, lyrical narration moving through consciousness, rendering perception and memory moment by moment.",
+  "Sinuous sentences interrupt themselves, turn aside and pass between minds; rhythm matters more than plot.",
+  "Impressionistic imagery of light, colour, sound and passing time, with ordinary objects charged with significance.",
+  "Spoken words are sparse and fragmentary, set against the much larger life of unspoken thought."
+ ]
+}

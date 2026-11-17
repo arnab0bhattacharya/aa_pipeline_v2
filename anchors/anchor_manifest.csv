@@ -1,0 +1,251 @@
+anchor_id,chunk_id,author,work,form,chunk_number,word_count
+ACD_A01,ACD_A_Study_in_Scarlet_chunk_4,ACD,A_Study_in_Scarlet,novel,4,1000
+ACD_A02,ACD_A_Study_in_Scarlet_chunk_11,ACD,A_Study_in_Scarlet,novel,11,1000
+ACD_A03,ACD_A_Study_in_Scarlet_chunk_34,ACD,A_Study_in_Scarlet,novel,34,1000
+ACD_A04,ACD_The_Adventures_of_Sherlock_Holmes_chunk_15,ACD,The_Adventures_of_Sherlock_Holmes,story collection,15,1000
+ACD_A05,ACD_The_Adventures_of_Sherlock_Holmes_chunk_18,ACD,The_Adventures_of_Sherlock_Holmes,story collection,18,1000
+ACD_A06,ACD_The_Adventures_of_Sherlock_Holmes_chunk_31,ACD,The_Adventures_of_Sherlock_Holmes,story collection,31,1000
+ACD_A07,ACD_The_Adventures_of_Sherlock_Holmes_chunk_32,ACD,The_Adventures_of_Sherlock_Holmes,story collection,32,1000
+ACD_A08,ACD_The_Adventures_of_Sherlock_Holmes_chunk_35,ACD,The_Adventures_of_Sherlock_Holmes,story collection,35,1000
+ACD_A09,ACD_The_Adventures_of_Sherlock_Holmes_chunk_82,ACD,The_Adventures_of_Sherlock_Holmes,story collection,82,1000
+ACD_A10,ACD_The_Adventures_of_Sherlock_Holmes_chunk_104,ACD,The_Adventures_of_Sherlock_Holmes,story collection,104,1000
+ACD_A11,ACD_The_Hound_of_the_Baskervilles_chunk_3,ACD,The_Hound_of_the_Baskervilles,novel,3,1000
+ACD_A12,ACD_The_Hound_of_the_Baskervilles_chunk_9,ACD,The_Hound_of_the_Baskervilles,novel,9,1000
+ACD_A13,ACD_The_Hound_of_the_Baskervilles_chunk_46,ACD,The_Hound_of_the_Baskervilles,novel,46,1000
+ACD_A14,ACD_The_Hound_of_the_Baskervilles_chunk_58,ACD,The_Hound_of_the_Baskervilles,novel,58,1000
+ACD_A15,ACD_The_Return_of_Sherlock_Holmes_chunk_4,ACD,The_Return_of_Sherlock_Holmes,story collection,4,1000
+ACD_A16,ACD_The_Return_of_Sherlock_Holmes_chunk_15,ACD,The_Return_of_Sherlock_Holmes,story collection,15,1000
+ACD_A17,ACD_The_Return_of_Sherlock_Holmes_chunk_16,ACD,The_Return_of_Sherlock_Holmes,story collection,16,1000
+ACD_A18,ACD_The_Return_of_Sherlock_Holmes_chunk_39,ACD,The_Return_of_Sherlock_Holmes,story collection,39,1000
+ACD_A19,ACD_The_Return_of_Sherlock_Holmes_chunk_43,ACD,The_Return_of_Sherlock_Holmes,story collection,43,1000
+ACD_A20,ACD_The_Return_of_Sherlock_Holmes_chunk_53,ACD,The_Return_of_Sherlock_Holmes,story collection,53,1000
+ACD_A21,ACD_The_Return_of_Sherlock_Holmes_chunk_68,ACD,The_Return_of_Sherlock_Holmes,story collection,68,1000
+ACD_A22,ACD_The_Return_of_Sherlock_Holmes_chunk_111,ACD,The_Return_of_Sherlock_Holmes,story collection,111,1000
+ACD_A23,ACD_The_Sign_of_the_Four_chunk_32,ACD,The_Sign_of_the_Four,novel,32,1000
+ACD_A24,ACD_The_Sign_of_the_Four_chunk_36,ACD,The_Sign_of_the_Four,novel,36,1000
+ACD_A25,ACD_The_Sign_of_the_Four_chunk_39,ACD,The_Sign_of_the_Four,novel,39,1000
+CB_A01,CB_Jane_Eyre_An_Autobiography_chunk_3,CB,Jane_Eyre_An_Autobiography,novel,3,1000
+CB_A02,CB_Jane_Eyre_An_Autobiography_chunk_52,CB,Jane_Eyre_An_Autobiography,novel,52,1000
+CB_A03,CB_Jane_Eyre_An_Autobiography_chunk_71,CB,Jane_Eyre_An_Autobiography,novel,71,1000
+CB_A04,CB_Jane_Eyre_An_Autobiography_chunk_91,CB,Jane_Eyre_An_Autobiography,novel,91,1000
+CB_A05,CB_Jane_Eyre_An_Autobiography_chunk_134,CB,Jane_Eyre_An_Autobiography,novel,134,1000
+CB_A06,CB_Jane_Eyre_An_Autobiography_chunk_135,CB,Jane_Eyre_An_Autobiography,novel,135,1000
+CB_A07,CB_Jane_Eyre_An_Autobiography_chunk_144,CB,Jane_Eyre_An_Autobiography,novel,144,1000
+CB_A08,CB_Shirley_chunk_29,CB,Shirley,novel,29,1000
+CB_A09,CB_Shirley_chunk_34,CB,Shirley,novel,34,1000
+CB_A10,CB_Shirley_chunk_48,CB,Shirley,novel,48,1000
+CB_A11,CB_Shirley_chunk_71,CB,Shirley,novel,71,1000
+CB_A12,CB_Shirley_chunk_89,CB,Shirley,novel,89,1000
+CB_A13,CB_Shirley_chunk_106,CB,Shirley,novel,106,1000
+CB_A14,CB_Shirley_chunk_107,CB,Shirley,novel,107,1000
+CB_A15,CB_Shirley_chunk_120,CB,Shirley,novel,120,1000
+CB_A16,CB_The_Professor_chunk_19,CB,The_Professor,novel,19,1000
+CB_A17,CB_The_Professor_chunk_57,CB,The_Professor,novel,57,1000
+CB_A18,CB_The_Professor_chunk_58,CB,The_Professor,novel,58,1000
+CB_A19,CB_Villette_chunk_12,CB,Villette,novel,12,1000
+CB_A20,CB_Villette_chunk_27,CB,Villette,novel,27,1000
+CB_A21,CB_Villette_chunk_40,CB,Villette,novel,40,1000
+CB_A22,CB_Villette_chunk_82,CB,Villette,novel,82,1000
+CB_A23,CB_Villette_chunk_123,CB,Villette,novel,123,1000
+CB_A24,CB_Villette_chunk_147,CB,Villette,novel,147,1000
+CB_A25,CB_Villette_chunk_171,CB,Villette,novel,171,1000
+CD_A01,CD_A_Tale_of_Two_Cities_chunk_44,CD,A_Tale_of_Two_Cities,novel,44,1000
+CD_A02,CD_A_Tale_of_Two_Cities_chunk_83,CD,A_Tale_of_Two_Cities,novel,83,1000
+CD_A03,CD_A_Tale_of_Two_Cities_chunk_93,CD,A_Tale_of_Two_Cities,novel,93,1000
+CD_A04,CD_A_Tale_of_Two_Cities_chunk_127,CD,A_Tale_of_Two_Cities,novel,127,1000
+CD_A05,CD_David_Copperfield_chunk_27,CD,David_Copperfield,novel,27,1000
+CD_A06,CD_David_Copperfield_chunk_45,CD,David_Copperfield,novel,45,1000
+CD_A07,CD_David_Copperfield_chunk_50,CD,David_Copperfield,novel,50,1000
+CD_A08,CD_David_Copperfield_chunk_116,CD,David_Copperfield,novel,116,1000
+CD_A09,CD_David_Copperfield_chunk_140,CD,David_Copperfield,novel,140,1000
+CD_A10,CD_David_Copperfield_chunk_143,CD,David_Copperfield,novel,143,1000
+CD_A11,CD_David_Copperfield_chunk_175,CD,David_Copperfield,novel,175,1000
+CD_A12,CD_David_Copperfield_chunk_216,CD,David_Copperfield,novel,216,1000
+CD_A13,CD_David_Copperfield_chunk_349,CD,David_Copperfield,novel,349,1000
+CD_A14,CD_Great_Expectations_chunk_29,CD,Great_Expectations,novel,29,1000
+CD_A15,CD_Great_Expectations_chunk_86,CD,Great_Expectations,novel,86,1000
+CD_A16,CD_Great_Expectations_chunk_110,CD,Great_Expectations,novel,110,1000
+CD_A17,CD_Great_Expectations_chunk_115,CD,Great_Expectations,novel,115,1000
+CD_A18,CD_Great_Expectations_chunk_134,CD,Great_Expectations,novel,134,1000
+CD_A19,CD_Hard_Times_chunk_27,CD,Hard_Times,novel,27,1000
+CD_A20,CD_Hard_Times_chunk_57,CD,Hard_Times,novel,57,1000
+CD_A21,CD_Hard_Times_chunk_59,CD,Hard_Times,novel,59,1000
+CD_A22,CD_Oliver_Twist_chunk_23,CD,Oliver_Twist,novel,23,1000
+CD_A23,CD_Oliver_Twist_chunk_53,CD,Oliver_Twist,novel,53,1000
+CD_A24,CD_Oliver_Twist_chunk_65,CD,Oliver_Twist,novel,65,1000
+CD_A25,CD_Oliver_Twist_chunk_81,CD,Oliver_Twist,novel,81,1000
+GE_A01,GE_Adam_Bede_chunk_49,GE,Adam_Bede,novel,49,1000
+GE_A02,GE_Adam_Bede_chunk_74,GE,Adam_Bede,novel,74,1000
+GE_A03,GE_Adam_Bede_chunk_113,GE,Adam_Bede,novel,113,1000
+GE_A04,GE_Adam_Bede_chunk_135,GE,Adam_Bede,novel,135,1000
+GE_A05,GE_Adam_Bede_chunk_154,GE,Adam_Bede,novel,154,1000
+GE_A06,GE_Daniel_Deronda_chunk_21,GE,Daniel_Deronda,novel,21,1000
+GE_A07,GE_Daniel_Deronda_chunk_34,GE,Daniel_Deronda,novel,34,1000
+GE_A08,GE_Daniel_Deronda_chunk_128,GE,Daniel_Deronda,novel,128,1000
+GE_A09,GE_Daniel_Deronda_chunk_135,GE,Daniel_Deronda,novel,135,1000
+GE_A10,GE_Daniel_Deronda_chunk_159,GE,Daniel_Deronda,novel,159,1000
+GE_A11,GE_Daniel_Deronda_chunk_188,GE,Daniel_Deronda,novel,188,1000
+GE_A12,GE_Daniel_Deronda_chunk_193,GE,Daniel_Deronda,novel,193,1000
+GE_A13,GE_Middlemarch_chunk_35,GE,Middlemarch,novel,35,1000
+GE_A14,GE_Middlemarch_chunk_119,GE,Middlemarch,novel,119,1000
+GE_A15,GE_Middlemarch_chunk_150,GE,Middlemarch,novel,150,1000
+GE_A16,GE_Middlemarch_chunk_184,GE,Middlemarch,novel,184,1000
+GE_A17,GE_Middlemarch_chunk_232,GE,Middlemarch,novel,232,1000
+GE_A18,GE_Middlemarch_chunk_235,GE,Middlemarch,novel,235,1000
+GE_A19,GE_Middlemarch_chunk_293,GE,Middlemarch,novel,293,1000
+GE_A20,GE_Silas_Marner_chunk_66,GE,Silas_Marner,novel,66,1000
+GE_A21,GE_The_Mill_on_the_Floss_chunk_40,GE,The_Mill_on_the_Floss,novel,40,1000
+GE_A22,GE_The_Mill_on_the_Floss_chunk_41,GE,The_Mill_on_the_Floss,novel,41,1000
+GE_A23,GE_The_Mill_on_the_Floss_chunk_76,GE,The_Mill_on_the_Floss,novel,76,1000
+GE_A24,GE_The_Mill_on_the_Floss_chunk_135,GE,The_Mill_on_the_Floss,novel,135,1000
+GE_A25,GE_The_Mill_on_the_Floss_chunk_189,GE,The_Mill_on_the_Floss,novel,189,1000
+HGW_A01,HGW_Ann_Veronica_A_Modern_Love_Story_chunk_29,HGW,Ann_Veronica_A_Modern_Love_Story,novel,29,1000
+HGW_A02,HGW_Ann_Veronica_A_Modern_Love_Story_chunk_30,HGW,Ann_Veronica_A_Modern_Love_Story,novel,30,1000
+HGW_A03,HGW_Ann_Veronica_A_Modern_Love_Story_chunk_44,HGW,Ann_Veronica_A_Modern_Love_Story,novel,44,1000
+HGW_A04,HGW_Ann_Veronica_A_Modern_Love_Story_chunk_48,HGW,Ann_Veronica_A_Modern_Love_Story,novel,48,1000
+HGW_A05,HGW_Ann_Veronica_A_Modern_Love_Story_chunk_50,HGW,Ann_Veronica_A_Modern_Love_Story,novel,50,1000
+HGW_A06,HGW_Ann_Veronica_A_Modern_Love_Story_chunk_70,HGW,Ann_Veronica_A_Modern_Love_Story,novel,70,1000
+HGW_A07,HGW_Ann_Veronica_A_Modern_Love_Story_chunk_73,HGW,Ann_Veronica_A_Modern_Love_Story,novel,73,1000
+HGW_A08,HGW_Ann_Veronica_A_Modern_Love_Story_chunk_76,HGW,Ann_Veronica_A_Modern_Love_Story,novel,76,1000
+HGW_A09,HGW_Ann_Veronica_A_Modern_Love_Story_chunk_87,HGW,Ann_Veronica_A_Modern_Love_Story,novel,87,1000
+HGW_A10,HGW_The_Invisible_Man_A_Grotesque_Romance_chunk_8,HGW,The_Invisible_Man_A_Grotesque_Romance,novel,8,1000
+HGW_A11,HGW_The_Invisible_Man_A_Grotesque_Romance_chunk_11,HGW,The_Invisible_Man_A_Grotesque_Romance,novel,11,1000
+HGW_A12,HGW_The_Invisible_Man_A_Grotesque_Romance_chunk_29,HGW,The_Invisible_Man_A_Grotesque_Romance,novel,29,1000
+HGW_A13,HGW_The_Invisible_Man_A_Grotesque_Romance_chunk_32,HGW,The_Invisible_Man_A_Grotesque_Romance,novel,32,1000
+HGW_A14,HGW_The_Time_Machine_chunk_2,HGW,The_Time_Machine,novel,2,1000
+HGW_A15,HGW_The_Time_Machine_chunk_4,HGW,The_Time_Machine,novel,4,1000
+HGW_A16,HGW_The_Time_Machine_chunk_27,HGW,The_Time_Machine,novel,27,1000
+HGW_A17,HGW_The_island_of_Doctor_Moreau_chunk_8,HGW,The_island_of_Doctor_Moreau,novel,8,1000
+HGW_A18,HGW_The_island_of_Doctor_Moreau_chunk_10,HGW,The_island_of_Doctor_Moreau,novel,10,1000
+HGW_A19,HGW_The_island_of_Doctor_Moreau_chunk_16,HGW,The_island_of_Doctor_Moreau,novel,16,1000
+HGW_A20,HGW_The_island_of_Doctor_Moreau_chunk_29,HGW,The_island_of_Doctor_Moreau,novel,29,1000
+HGW_A21,HGW_The_war_of_the_worlds_chunk_12,HGW,The_war_of_the_worlds,novel,12,1000
+HGW_A22,HGW_The_war_of_the_worlds_chunk_32,HGW,The_war_of_the_worlds,novel,32,1000
+HGW_A23,HGW_The_war_of_the_worlds_chunk_34,HGW,The_war_of_the_worlds,novel,34,1000
+HGW_A24,HGW_The_war_of_the_worlds_chunk_37,HGW,The_war_of_the_worlds,novel,37,1000
+HGW_A25,HGW_The_war_of_the_worlds_chunk_43,HGW,The_war_of_the_worlds,novel,43,1000
+JA_A01,JA_Emma_chunk_2,JA,Emma,novel,2,1000
+JA_A02,JA_Emma_chunk_19,JA,Emma,novel,19,1000
+JA_A03,JA_Emma_chunk_44,JA,Emma,novel,44,1000
+JA_A04,JA_Emma_chunk_96,JA,Emma,novel,96,1000
+JA_A05,JA_Emma_chunk_120,JA,Emma,novel,120,1000
+JA_A06,JA_Emma_chunk_125,JA,Emma,novel,125,1000
+JA_A07,JA_Emma_chunk_147,JA,Emma,novel,147,1000
+JA_A08,JA_Northanger_Abbey_chunk_46,JA,Northanger_Abbey,novel,46,1000
+JA_A09,JA_Northanger_Abbey_chunk_55,JA,Northanger_Abbey,novel,55,1000
+JA_A10,JA_Northanger_Abbey_chunk_74,JA,Northanger_Abbey,novel,74,1000
+JA_A11,JA_Persuasion_chunk_20,JA,Persuasion,novel,20,1000
+JA_A12,JA_Persuasion_chunk_54,JA,Persuasion,novel,54,1000
+JA_A13,JA_Persuasion_chunk_62,JA,Persuasion,novel,62,1000
+JA_A14,JA_Persuasion_chunk_65,JA,Persuasion,novel,65,1000
+JA_A15,JA_Pride_and_Prejudice_chunk_17,JA,Pride_and_Prejudice,novel,17,1000
+JA_A16,JA_Pride_and_Prejudice_chunk_23,JA,Pride_and_Prejudice,novel,23,1000
+JA_A17,JA_Pride_and_Prejudice_chunk_51,JA,Pride_and_Prejudice,novel,51,1000
+JA_A18,JA_Pride_and_Prejudice_chunk_62,JA,Pride_and_Prejudice,novel,62,1000
+JA_A19,JA_Pride_and_Prejudice_chunk_78,JA,Pride_and_Prejudice,novel,78,1000
+JA_A20,JA_Pride_and_Prejudice_chunk_81,JA,Pride_and_Prejudice,novel,81,1000
+JA_A21,JA_Sense_and_Sensibility_chunk_1,JA,Sense_and_Sensibility,novel,1,1000
+JA_A22,JA_Sense_and_Sensibility_chunk_17,JA,Sense_and_Sensibility,novel,17,1000
+JA_A23,JA_Sense_and_Sensibility_chunk_31,JA,Sense_and_Sensibility,novel,31,1000
+JA_A24,JA_Sense_and_Sensibility_chunk_48,JA,Sense_and_Sensibility,novel,48,1000
+JA_A25,JA_Sense_and_Sensibility_chunk_84,JA,Sense_and_Sensibility,novel,84,1000
+JC_A01,JC_Heart_of_Darkness_chunk_13,JC,Heart_of_Darkness,novel,13,1000
+JC_A02,JC_Heart_of_Darkness_chunk_30,JC,Heart_of_Darkness,novel,30,1000
+JC_A03,JC_Lord_Jim_chunk_30,JC,Lord_Jim,novel,30,1000
+JC_A04,JC_Lord_Jim_chunk_40,JC,Lord_Jim,novel,40,1000
+JC_A05,JC_Lord_Jim_chunk_69,JC,Lord_Jim,novel,69,1000
+JC_A06,JC_Lord_Jim_chunk_92,JC,Lord_Jim,novel,92,1000
+JC_A07,JC_Lord_Jim_chunk_107,JC,Lord_Jim,novel,107,1000
+JC_A08,JC_Lord_Jim_chunk_112,JC,Lord_Jim,novel,112,1000
+JC_A09,JC_Nostromo_A_Tale_of_the_Seaboard_chunk_28,JC,Nostromo_A_Tale_of_the_Seaboard,novel,28,1000
+JC_A10,JC_Nostromo_A_Tale_of_the_Seaboard_chunk_93,JC,Nostromo_A_Tale_of_the_Seaboard,novel,93,1000
+JC_A11,JC_Nostromo_A_Tale_of_the_Seaboard_chunk_95,JC,Nostromo_A_Tale_of_the_Seaboard,novel,95,1000
+JC_A12,JC_Nostromo_A_Tale_of_the_Seaboard_chunk_131,JC,Nostromo_A_Tale_of_the_Seaboard,novel,131,1000
+JC_A13,JC_Nostromo_A_Tale_of_the_Seaboard_chunk_133,JC,Nostromo_A_Tale_of_the_Seaboard,novel,133,1000
+JC_A14,JC_Nostromo_A_Tale_of_the_Seaboard_chunk_160,JC,Nostromo_A_Tale_of_the_Seaboard,novel,160,1000
+JC_A15,JC_Nostromo_A_Tale_of_the_Seaboard_chunk_161,JC,Nostromo_A_Tale_of_the_Seaboard,novel,161,1000
+JC_A16,JC_Nostromo_A_Tale_of_the_Seaboard_chunk_167,JC,Nostromo_A_Tale_of_the_Seaboard,novel,167,1000
+JC_A17,JC_The_Secret_Agent_A_Simple_Tale_chunk_1,JC,The_Secret_Agent_A_Simple_Tale,novel,1,1000
+JC_A18,JC_The_Secret_Agent_A_Simple_Tale_chunk_3,JC,The_Secret_Agent_A_Simple_Tale,novel,3,1000
+JC_A19,JC_The_Secret_Agent_A_Simple_Tale_chunk_55,JC,The_Secret_Agent_A_Simple_Tale,novel,55,1000
+JC_A20,JC_The_Secret_Agent_A_Simple_Tale_chunk_85,JC,The_Secret_Agent_A_Simple_Tale,novel,85,1000
+JC_A21,JC_Under_Western_Eyes_chunk_11,JC,Under_Western_Eyes,novel,11,1000
+JC_A22,JC_Under_Western_Eyes_chunk_19,JC,Under_Western_Eyes,novel,19,1000
+JC_A23,JC_Under_Western_Eyes_chunk_41,JC,Under_Western_Eyes,novel,41,1000
+JC_A24,JC_Under_Western_Eyes_chunk_51,JC,Under_Western_Eyes,novel,51,1000
+JC_A25,JC_Under_Western_Eyes_chunk_60,JC,Under_Western_Eyes,novel,60,1000
+MS_A01,MS_Falkner_A_Novel_chunk_13,MS,Falkner_A_Novel,novel,13,1000
+MS_A02,MS_Falkner_A_Novel_chunk_18,MS,Falkner_A_Novel,novel,18,1000
+MS_A03,MS_Falkner_A_Novel_chunk_46,MS,Falkner_A_Novel,novel,46,1000
+MS_A04,MS_Falkner_A_Novel_chunk_93,MS,Falkner_A_Novel,novel,93,1000
+MS_A05,MS_Falkner_A_Novel_chunk_101,MS,Falkner_A_Novel,novel,101,1000
+MS_A06,MS_Falkner_A_Novel_chunk_109,MS,Falkner_A_Novel,novel,109,1000
+MS_A07,MS_Falkner_A_Novel_chunk_135,MS,Falkner_A_Novel,novel,135,1000
+MS_A08,MS_Falkner_A_Novel_chunk_141,MS,Falkner_A_Novel,novel,141,1000
+MS_A09,MS_Frankenstein_or_the_modern_prometheus_chunk_10,MS,Frankenstein_or_the_modern_prometheus,novel,10,1000
+MS_A10,MS_Frankenstein_or_the_modern_prometheus_chunk_45,MS,Frankenstein_or_the_modern_prometheus,novel,45,1000
+MS_A11,MS_Frankenstein_or_the_modern_prometheus_chunk_63,MS,Frankenstein_or_the_modern_prometheus,novel,63,1000
+MS_A12,MS_Frankenstein_or_the_modern_prometheus_chunk_73,MS,Frankenstein_or_the_modern_prometheus,novel,73,1000
+MS_A13,MS_Mathilda_chunk_7,MS,Mathilda,novel,7,1000
+MS_A14,MS_Mathilda_chunk_24,MS,Mathilda,novel,24,1000
+MS_A15,MS_The_Heir_of_Mondolfo_chunk_7,MS,The_Heir_of_Mondolfo,story collection,7,1000
+MS_A16,MS_The_Last_Man_chunk_32,MS,The_Last_Man,novel,32,1000
+MS_A17,MS_The_Last_Man_chunk_35,MS,The_Last_Man,novel,35,1000
+MS_A18,MS_The_Last_Man_chunk_72,MS,The_Last_Man,novel,72,1000
+MS_A19,MS_The_Last_Man_chunk_93,MS,The_Last_Man,novel,93,1000
+MS_A20,MS_The_Last_Man_chunk_95,MS,The_Last_Man,novel,95,1000
+MS_A21,MS_The_Last_Man_chunk_109,MS,The_Last_Man,novel,109,1000
+MS_A22,MS_The_Last_Man_chunk_132,MS,The_Last_Man,novel,132,1000
+MS_A23,MS_The_Last_Man_chunk_139,MS,The_Last_Man,novel,139,1000
+MS_A24,MS_The_Last_Man_chunk_146,MS,The_Last_Man,novel,146,1000
+MS_A25,MS_The_Last_Man_chunk_165,MS,The_Last_Man,novel,165,1000
+OW_A01,OW_A_House_of_Pomegranates_chunk_9,OW,A_House_of_Pomegranates,fairy-tale collection,9,1000
+OW_A02,OW_A_House_of_Pomegranates_chunk_18,OW,A_House_of_Pomegranates,fairy-tale collection,18,1000
+OW_A03,OW_A_House_of_Pomegranates_chunk_26,OW,A_House_of_Pomegranates,fairy-tale collection,26,1000
+OW_A04,OW_A_House_of_Pomegranates_chunk_27,OW,A_House_of_Pomegranates,fairy-tale collection,27,1000
+OW_A05,OW_A_House_of_Pomegranates_chunk_29,OW,A_House_of_Pomegranates,fairy-tale collection,29,1000
+OW_A06,OW_Lord_Arthur_Savile's_Crime_The_Portrait_of_Mr._W.H_and_Other_Stories_chunk_2,OW,Lord_Arthur_Savile's_Crime_The_Portrait_of_Mr._W.H_and_Other_Stories,story collection,2,1000
+OW_A07,OW_Lord_Arthur_Savile's_Crime_The_Portrait_of_Mr._W.H_and_Other_Stories_chunk_4,OW,Lord_Arthur_Savile's_Crime_The_Portrait_of_Mr._W.H_and_Other_Stories,story collection,4,1000
+OW_A08,OW_Lord_Arthur_Savile's_Crime_The_Portrait_of_Mr._W.H_and_Other_Stories_chunk_14,OW,Lord_Arthur_Savile's_Crime_The_Portrait_of_Mr._W.H_and_Other_Stories,story collection,14,1000
+OW_A09,OW_Lord_Arthur_Savile's_Crime_The_Portrait_of_Mr._W.H_and_Other_Stories_chunk_22,OW,Lord_Arthur_Savile's_Crime_The_Portrait_of_Mr._W.H_and_Other_Stories,story collection,22,1000
+OW_A10,OW_Lord_Arthur_Savile's_Crime_The_Portrait_of_Mr._W.H_and_Other_Stories_chunk_31,OW,Lord_Arthur_Savile's_Crime_The_Portrait_of_Mr._W.H_and_Other_Stories,story collection,31,1000
+OW_A11,OW_Lord_Arthur_Savile's_Crime_The_Portrait_of_Mr._W.H_and_Other_Stories_chunk_33,OW,Lord_Arthur_Savile's_Crime_The_Portrait_of_Mr._W.H_and_Other_Stories,story collection,33,1000
+OW_A12,OW_The Picture of Dorian Gray_chunk_1,OW,The Picture of Dorian Gray,novel,1,1000
+OW_A13,OW_The Picture of Dorian Gray_chunk_4,OW,The Picture of Dorian Gray,novel,4,1000
+OW_A14,OW_The Picture of Dorian Gray_chunk_22,OW,The Picture of Dorian Gray,novel,22,1000
+OW_A15,OW_The Picture of Dorian Gray_chunk_25,OW,The Picture of Dorian Gray,novel,25,1000
+OW_A16,OW_The Picture of Dorian Gray_chunk_27,OW,The Picture of Dorian Gray,novel,27,1000
+OW_A17,OW_The Picture of Dorian Gray_chunk_28,OW,The Picture of Dorian Gray,novel,28,1000
+OW_A18,OW_The Picture of Dorian Gray_chunk_30,OW,The Picture of Dorian Gray,novel,30,1000
+OW_A19,OW_The Picture of Dorian Gray_chunk_33,OW,The Picture of Dorian Gray,novel,33,1000
+OW_A20,OW_The Picture of Dorian Gray_chunk_37,OW,The Picture of Dorian Gray,novel,37,1000
+OW_A21,OW_The Picture of Dorian Gray_chunk_53,OW,The Picture of Dorian Gray,novel,53,1000
+OW_A22,OW_The Picture of Dorian Gray_chunk_56,OW,The Picture of Dorian Gray,novel,56,1000
+OW_A23,OW_The_Happy_Prince_and_Other_Tales_chunk_2,OW,The_Happy_Prince_and_Other_Tales,fairy-tale collection,2,1000
+OW_A24,OW_The_Happy_Prince_and_Other_Tales_chunk_5,OW,The_Happy_Prince_and_Other_Tales,fairy-tale collection,5,1000
+OW_A25,OW_The_Happy_Prince_and_Other_Tales_chunk_8,OW,The_Happy_Prince_and_Other_Tales,fairy-tale collection,8,1000
+VW_A01,VW_Jacob's_Room_chunk_6,VW,Jacob's_Room,novel,6,1000
+VW_A02,VW_Jacob's_Room_chunk_29,VW,Jacob's_Room,novel,29,1000
+VW_A03,VW_Jacob's_Room_chunk_47,VW,Jacob's_Room,novel,47,1000
+VW_A04,VW_Monday_or_Tuesday_chunk_5,VW,Monday_or_Tuesday,story collection,5,1000
+VW_A05,VW_Mrs_Dalloway_chunk_19,VW,Mrs_Dalloway,novel,19,1000
+VW_A06,VW_Mrs_Dalloway_chunk_26,VW,Mrs_Dalloway,novel,26,1000
+VW_A07,VW_Mrs_Dalloway_chunk_47,VW,Mrs_Dalloway,novel,47,1000
+VW_A08,VW_Mrs_Dalloway_chunk_63,VW,Mrs_Dalloway,novel,63,1000
+VW_A09,VW_Night_and_Day_chunk_27,VW,Night_and_Day,novel,27,1000
+VW_A10,VW_Night_and_Day_chunk_47,VW,Night_and_Day,novel,47,1000
+VW_A11,VW_Night_and_Day_chunk_89,VW,Night_and_Day,novel,89,1000
+VW_A12,VW_Night_and_Day_chunk_106,VW,Night_and_Day,novel,106,1000
+VW_A13,VW_Night_and_Day_chunk_113,VW,Night_and_Day,novel,113,1000
+VW_A14,VW_Night_and_Day_chunk_138,VW,Night_and_Day,novel,138,1000
+VW_A15,VW_Night_and_Day_chunk_148,VW,Night_and_Day,novel,148,1000
+VW_A16,VW_Night_and_Day_chunk_152,VW,Night_and_Day,novel,152,1000
+VW_A17,VW_Night_and_Day_chunk_166,VW,Night_and_Day,novel,166,1000
+VW_A18,VW_The_Voyage_Out_chunk_22,VW,The_Voyage_Out,novel,22,1000
+VW_A19,VW_The_Voyage_Out_chunk_37,VW,The_Voyage_Out,novel,37,1000
+VW_A20,VW_The_Voyage_Out_chunk_72,VW,The_Voyage_Out,novel,72,1000
+VW_A21,VW_The_Voyage_Out_chunk_81,VW,The_Voyage_Out,novel,81,1000
+VW_A22,VW_The_Voyage_Out_chunk_84,VW,The_Voyage_Out,novel,84,1000
+VW_A23,VW_The_Voyage_Out_chunk_86,VW,The_Voyage_Out,novel,86,1000
+VW_A24,VW_The_Voyage_Out_chunk_91,VW,The_Voyage_Out,novel,91,1000
+VW_A25,VW_The_Voyage_Out_chunk_123,VW,The_Voyage_Out,novel,123,1000

@@ -1,0 +1,71 @@
+It was upon a raw November afternoon, with the yellow fog lying thick as a blanket over the Marylebone Road, that I found myself once again in the familiar sitting-room at Baker Street, listening to the quick, dry scratching of my friend’s pen upon the paper. He had been in a silent humour since morning, and I had learned, over many years, to let the storm of his thoughts gather without interruption. The fire crackled, the fog pressed against the window-panes, and I had half-dozed in my chair when the sharp peal of the bell below announced a visitor.
+
+“A client of substance, Watson,” said Holmes, without looking up from his notes. “A man who has travelled some distance, and who is accustomed to being obeyed.”
+
+“How on earth—”
+
+“The rattle of his carriage was heavy and well-sprung, his step upon the stair is firm, and he has not paused to wipe his boots, which argues a man too preoccupied with his own affairs to consider the state of another’s carpet. He is a collector, I fancy, for there is the faintest odour of turpentine and varnish about him, and the sort of man who owns a gallery is never quite free of it.”
+
+The door opened, and our visitor proved to be a stout, florid gentleman of perhaps sixty years, dressed in a frock-coat of excellent cloth, with a heavy gold chain across his waistcoat and a face that bore the marks of good living and, at present, of profound distress. He introduced himself as Mr. Josiah Crane, of Crane House, Mayfair, and he had no sooner taken the chair which Holmes indicated than he burst into his tale.
+
+“Mr. Holmes, I am a man who has spent forty years in the acquisition of beautiful things, and I tell you plainly that I have been robbed, and robbed in a manner so devilish cunning that I can scarce believe my own senses. In my gallery hangs a Rembrandt—‘The Burgher’s Daughter’—which I purchased in ‘eighty-one for a sum I shall not name. It is the jewel of my collection. Yesterday morning, as is my custom, I went to look at it before breakfast. It was there, Mr. Holmes. It was there, and yet it was not there. The frame, the canvas, the very grain of the paint—all were as I remembered them, and yet some instinct, some whisper of the connoisseur, told me that I was looking upon a counterfeit. I sent for my man of business, and then for an expert from the National Gallery. He confirmed my fears. It is a copy, sir—a copy so skilful that it might deceive any but a trained eye, but a copy beyond a doubt.”
+
+Holmes had listened with his eyes closed, his finger-tips pressed together. “The gallery has been guarded, you say?”
+
+“Day and night, Mr. Holmes. My butler, Marsh, is an old soldier and a man of iron routine. He locks the gallery himself at ten each evening, and unlocks it at seven. No one enters without my knowledge. And yet, in the space of a single month, the thing has been done.”
+
+“You have had visitors?”
+
+“Three, and only three. A picture restorer, a man named Vellacott, who came to clean and revarnish several of the smaller Dutch works. A chimney sweep, who attended to the flues—the gallery has a fireplace, and the flue runs up through the west wall. And my own nephew, Mr. Holmes, my sister’s son, a young man named Edwin Crane, who has rooms in the house and who is, I am grieved to say, somewhat too fond of the card-table.”
+
+“A restorer, a sweep, and a nephew,” murmured Holmes. “You have, I take it, a description of each?”
+
+“Vellacott is a small, precise man, with spectacles and a stoop. The sweep was a great hulking fellow with a soot-black face and a sack. And Edwin—well, Edwin is Edwin.”
+
+“I should like to see the gallery, Mr. Crane, and to speak with your butler. Watson, I fancy a walk in the fog will do us both good.”
+
+---
+
+Crane House proved to be a handsome Georgian mansion, its façade dark with soot and its interior rich with the accumulated treasures of a lifetime. The gallery was a long, high-ceilinged room, lit by a skylight and by a fire which burned in a grate at the western end. The Rembrandt—or rather, the thing that now passed for it—hung upon the opposite wall, and Holmes spent a full quarter of an hour examining it with his lens, climbing upon a chair to study the craquelure, and finally sniffing at the surface of the canvas like a hound upon a scent.
+
+“The copy is Dutch, and recent,” said he at last. “The varnish is not yet fully hardened. But you are right, Mr. Crane—it is a clever piece of work. Now, Marsh, the butler, if you please.”
+
+Marsh was a gaunt, grey man with the bearing of a sergeant-major and a face that betrayed nothing. He answered Holmes’s questions with a soldier’s brevity. Yes, he locked the gallery himself each night. No, he had never omitted the duty. The sweep had come on the Tuesday fortnight, and had been in the gallery for some three hours, attending to the flue. Vellacott had been in the house for a week, working in the gallery each day from ten until four. Mr. Edwin had been in and out, as was his habit.
+
+“And the key?” asked Holmes.
+
+“I keep it upon my person, sir, until I lock up, and then it hangs in my pantry, which is locked also.”
+
+“Has anyone borrowed it?”
+
+Marsh hesitated. “Mr. Edwin, sir, asked for it one evening—the night of the sweep’s visit, as it happens—saying he wished to show a friend the Rembrandt. I refused him, as I had no orders, and he went away in a passion.”
+
+Holmes’s eyes gleamed. “And the flue, Marsh—is it large enough for a man?”
+
+“For a small man, sir, perhaps. The sweep’s boy could have got up it, I daresay. But the sweep himself was too stout.”
+
+When Marsh had withdrawn, Holmes turned to me with that air of suppressed excitement which I knew so well. “The game is afoot, Watson. Let us examine the fireplace.”
+
+The grate was of iron, and the flue above it was black with soot. Holmes knelt, and with his lens he traced the edges of the ironwork. Then he gave a little cry.
+
+“Look here, Watson. The soot upon the upper edge of the grate has been disturbed—brushed, as it were, by the passage of a cloth or a garment. And here, upon the hearthstone, is a single thread of dark blue wool, such as a sweep’s overall might shed. But observe the curious thing: the thread is caught upon the inner lip of the grate, as though the man who wore it had been climbing *out*, not in.”
+
+“You mean the sweep came down the chimney?”
+
+“Precisely. Or rather, a man came down the chimney—a small, precise man who had no wish to be seen entering by the door. Vellacott the restorer, Watson, is a small man. He had a week in which to study the painting and to prepare his copy. The sweep’s visit gave him his opportunity—the flue was opened, the gallery was in disorder, and a man of his build could descend by night, substitute the copy, and ascend again, leaving the sweep to bear the blame. The blue thread is the sweep’s, caught upon the grate as Vellacott brushed past him in the dark—or perhaps the sweep himself was bribed to leave the flue open.”
+
+“But the nephew?” I asked. “He asked for the key.”
+
+“A red herring, Watson, and a useful one. Edwin Crane is a gambler and a fool, but he is no forger of Rembrandts. Vellacott, however, is a restorer of genius and a man of desperate debts—I have had my eye upon him before. Come, let us pay a call upon his lodgings in Bloomsbury.”
+
+---
+
+Vellacott’s rooms were above a chemist’s shop, and the man himself—small, precise, with spectacles and a stoop—received us with a show of indignation which I could see did not deceive Holmes for a moment. Upon his easel stood a canvas, half-cleaned, and upon a shelf were jars of varnish and a palette of pigments.
+
+“You have been busy, Mr. Vellacott,” said Holmes, “with more than the cleaning of Dutch masters. The copy of ‘The Burgher’s Daughter’ is a fine piece of work, but you have made one error. The original has a crack in the varnish above the burgher’s left shoulder—a crack which you have reproduced, but which you have placed a quarter-inch too high. It is a small thing, but it will hang you.”
+
+The man’s face went the colour of ash. He made a movement towards the door, but Holmes was before him, and in another moment the restorer had collapsed into a chair, his head in his hands.
+
+“It was the sweep,” he muttered. “He left the flue open for a price. I came down at midnight, and I went up again before dawn. I meant only to sell the original abroad and to live quietly. I did not think anyone would know.”
+
+“You did not think,” said Holmes, “that a collector’s eye is sharper than a restorer’s varnish. Come, Watson, the fog is lifting. I fancy a hansom will be waiting in the Strand, and Mr. Crane will be glad of his Rembrandt before nightfall.”
