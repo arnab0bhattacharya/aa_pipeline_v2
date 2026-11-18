@@ -172,7 +172,7 @@ def main():
     man = pd.read_csv(ANCHOR_DIR / "anchor_manifest.csv").set_index("anchor_id")
     anchor_tok = {a: ids((ANCHOR_DIR / r.author / f"{r.chunk_id}.txt").read_text(encoding="utf-8"))
                   for a, r in man.iterrows()}
-    gen_meta = pd.read_csv(DSH / "aa_pipeline_v2" / "out" / "generated.csv")
+    gen_meta = pd.read_csv(ROOT / "out" / "generated.csv")
     gen_meta = gen_meta[gen_meta["method"] == "burrows"].set_index("doc_id")
 
     rows, cands = [], []

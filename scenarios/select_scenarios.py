@@ -13,13 +13,10 @@ Output: scenarios_final.csv (500 rows), selection_log.csv (every draft, kept or 
 Usage: .venv/Scripts/python select_scenarios.py
 """
 import csv
+import math
 import random
-import sys
 from collections import defaultdict
 from pathlib import Path
-
-sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
-from aa_pipeline.stylolib.stats import hamilton_allocate  # noqa: E402
 
 SEED = 42
 PER_AUTHOR = 50
@@ -43,6 +40,26 @@ MODE_WEIGHTS = {
     "VW": {"london-family": 166, "voyage-abroad": 136, "single-day": 63,
            "life-fragments": 54, "sketch": 18},
 }
+
+
+def hamilton_allocate(weights: dict[str, int], total: int) -> dict[str, int]:
+    """Allocate `total` integer slots proportionally across keys using the
+    Hamilton / Largest Remainder method.
+    """
+    if not weights or total == 0:
+        return {k: 0 for k in weights}
+    weight_sum = sum(weights.values())
+    if weight_sum == 0:
+        return {k: 0 for k in weights}
+    raw = {k: (v / weight_sum) * total for k, v in weights.items()}
+    floors = {k: math.floor(v) for k, v in raw.items()}
+    remainders = {k: raw[k] - floors[k] for k in weights}
+    leftover = total - sum(floors.values())
+    sorted_keys = sorted(weights.keys(), key=lambda k: remainders[k], reverse=True)
+    result = dict(floors)
+    for k in sorted_keys[:leftover]:
+        result[k] += 1
+    return result
 
 
 def allocate(weights: dict, available: dict, total: int) -> dict:

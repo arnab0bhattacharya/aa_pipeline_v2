@@ -17,16 +17,13 @@ And scenarios_final_paired.csv (scenarios + anchor_id) in this folder.
 Usage: .venv/Scripts/python build_anchors.py
 """
 import csv
+import math
 import random
 import shutil
-import sys
 from collections import defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-sys.path.insert(0, str(ROOT))
-from aa_pipeline.stages.prep.sampler import stratified_sample  # noqa: E402
-from aa_pipeline.stylolib.manifest import load_manifest, write_manifest  # noqa: E402
 
 SEED = 42
 ANCHORS_PER_AUTHOR = 25
@@ -43,6 +40,108 @@ STORY_WORKS = {
     "VW": {"Monday_or_Tuesday"},
 }
 TALE_WORKS = {"OW": {"A_House_of_Pomegranates", "The_Happy_Prince_and_Other_Tales"}}
+
+
+def load_manifest(path: Path | str, filter_reference: bool | None = None) -> list[dict]:
+    """Load a CSV manifest file, optionally filtering by reference status."""
+    p = Path(path)
+    if not p.exists():
+        raise FileNotFoundError(f"Manifest not found: {p}")
+    rows = []
+    with open(p, newline="", encoding="utf-8-sig") as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            if filter_reference is not None:
+                is_ref = row.get("is_reference", "").strip().lower() in ("true", "1", "yes")
+                if is_ref != filter_reference:
+                    continue
+            rows.append(row)
+    return rows
+
+
+def write_manifest(path: Path | str, rows: list[dict], fieldnames: list[str] | None = None) -> None:
+    """Write rows to a CSV manifest."""
+    p = Path(path)
+    p.parent.mkdir(parents=True, exist_ok=True)
+    if not rows and not fieldnames:
+        return
+    if fieldnames is None and rows:
+        fieldnames = list(rows[0].keys())
+    with open(p, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames or [])
+        writer.writeheader()
+        writer.writerows(rows)
+
+
+def hamilton_allocate(weights: dict[str, int], total: int) -> dict[str, int]:
+    """Allocate `total` integer slots proportionally across keys using the
+    Hamilton / Largest Remainder method.
+    """
+    if not weights or total == 0:
+        return {k: 0 for k in weights}
+    weight_sum = sum(weights.values())
+    if weight_sum == 0:
+        return {k: 0 for k in weights}
+    raw = {k: (v / weight_sum) * total for k, v in weights.items()}
+    floors = {k: math.floor(v) for k, v in raw.items()}
+    remainders = {k: raw[k] - floors[k] for k in weights}
+    leftover = total - sum(floors.values())
+    sorted_keys = sorted(weights.keys(), key=lambda k: remainders[k], reverse=True)
+    result = dict(floors)
+    for k in sorted_keys[:leftover]:
+        result[k] += 1
+    return result
+
+
+def stratified_sample(
+    chunks_by_book: dict[str, list],
+    target: int,
+    rng: random.Random,
+) -> list:
+    """Return exactly `target` items drawn proportionally from each book,
+    never exceeding a book's available pool.
+    """
+    books = list(chunks_by_book.keys())
+    pool_sizes = {b: len(chunks_by_book[b]) for b in books}
+    total_pool = sum(pool_sizes.values())
+
+    if total_pool <= target:
+        return [f for files in chunks_by_book.values() for f in files]
+
+    # Step 1: initial Hamilton allocation
+    quotas = hamilton_allocate(pool_sizes, target)
+
+    # Steps 2-4: iterative redistribution for capped books
+    while True:
+        capped = {b for b in books if quotas[b] > pool_sizes[b]}
+        if not capped:
+            break
+
+        surplus = sum(quotas[b] - pool_sizes[b] for b in capped)
+        for b in capped:
+            quotas[b] = pool_sizes[b]
+
+        headroom = {
+            b: pool_sizes[b] - quotas[b]
+            for b in books
+            if b not in capped and pool_sizes[b] > quotas[b]
+        }
+
+        if not headroom or surplus == 0:
+            break
+
+        extra = hamilton_allocate(headroom, min(surplus, sum(headroom.values())))
+        for b, e in extra.items():
+            quotas[b] += e
+
+    # Sample
+    sampled = []
+    for b in books:
+        q = min(quotas[b], pool_sizes[b])
+        if q > 0:
+            sampled.extend(rng.sample(chunks_by_book[b], q))
+
+    return sampled
 
 
 def form_of(author: str, work: str) -> str:
