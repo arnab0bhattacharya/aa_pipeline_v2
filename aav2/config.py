@@ -14,6 +14,8 @@ class Config:
     out: Path = field(default_factory=lambda: DEFAULT_ROOT / "out")
 
     # ── Inputs (relative to root) ──────────────────────────────────────────
+    raw_books_dir: str = "1_standardized_books"
+    chunked_dir: str = "2_chunked_books"
     reference_dir: str = "3_sampled_chunked_books_140"
     anchor_dir: str = "anchors"
     spare_manifest: str = "anchors/spare_manifest.csv"
@@ -33,12 +35,13 @@ class Config:
     n_controls: int = 500
     model_slots: tuple[str, ...] = ("M1", "M2", "M3", "M4")
 
-    # ── Generated text truncation (same rule as the reference chunker) ─────
+    # ── Chunking ────────────────────────────────────────────
     chunk_target_words: int = 1000
     chunk_window: int = 0
     min_chunk_words: int = 1000
-    min_para_density: int = 2
+    min_para_density: int = 2       # paragraphs per 10,000 words
     sentence_end_regex: str = r"[.!?]$"
+    standardised_suffix_regex: str = r"_standardis[e]?d$"
 
     # ── Vocabulary (refit on every reference set: full, each LOO/LOWO fold) ─
     token_regex: str = r"\b[a-z]+\b"
